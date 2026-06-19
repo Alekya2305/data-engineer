@@ -1,0 +1,57 @@
+version: 2
+
+models:
+  - name: transactions
+    columns:
+      - name: transaction_id
+        tests:
+          - unique
+          - not_null
+      - name: amount
+        tests:
+          - not_null
+      - name: category
+        tests:
+          - accepted_values:
+              values: ['Food', 'Transport', 'Shopping', 'Bills', 'Entertainment']
+
+  - name: daily_summary
+    columns:
+      - name: transaction_date
+        tests:
+          - unique
+          - not_null
+      - name: total_transactions 
+        tests:
+          - not_null
+      - name: total_revenue       
+        tests:
+          - not_null
+
+  - name: merchant_stats
+    columns:
+      - name: merchant
+        tests:
+          - not_null
+      - name: transaction_volume   
+        tests:
+          - not_null
+
+  - name: fraud_analysis         
+    columns:
+      - name: category
+        tests:
+          - not_null
+          - accepted_values:
+              values: ['Food', 'Transport', 'Shopping', 'Bills', 'Entertainment']
+      - name: fraud_rate_pct
+        tests:
+          - dbt.utils.accepted_values:
+              min: 0
+              max: 100
+      - name: fraud_count        
+        tests:
+          - not_null
+      - name: total_transactions 
+        tests:
+          - not_null
