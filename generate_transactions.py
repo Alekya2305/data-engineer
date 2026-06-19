@@ -13,7 +13,7 @@ for i in range(1000):
         "amount": round(random.uniform(1,1000),2),
         "category" : random.choice(["Food", "Entertainment", "Shopping", "Bills"]),
         "merchant": fake.company(),
-        "timestamp": fake.date_time_this_year().strftime("%Y-%M-%D %H-%M-%S"),
+        "timestamp": fake.date_time_this_year().strftime("%Y-%m-%d %H-%M-%S"),
         "isFrauad": random.choice(["True", "False"]),
         }
     transactions.append(transaction)
