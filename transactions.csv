@@ -1,1001 +1,1001 @@
-transaction_id,user_id,amount,category,merchant,timestamp,isFrauad
-1,73,547.71,Shopping,Moon-Andrade,2026-05-06 12-35-34,True
-2,58,482.26,Shopping,"Vazquez, Rodriguez and Brown",2026-02-16 12-48-44,True
-3,21,855.4,Entertainment,Clay Group,2026-01-03 23-19-36,False
-4,55,301.76,Shopping,"Carter, Anderson and Bailey",2026-05-14 19-43-29,True
-5,73,258.56,Entertainment,Jackson-Wood,2026-06-15 00-37-18,True
-6,8,645.63,Shopping,"Le, Stewart and Williams",2026-02-14 10-54-38,False
-7,10,404.17,Shopping,Davis-West,2026-02-26 01-58-41,True
-8,97,915.91,Shopping,Pollard Inc,2026-03-19 06-57-03,False
-9,30,642.35,Entertainment,Thomas-Cole,2026-05-05 04-05-57,False
-10,91,857.18,Food,"Odonnell, Hernandez and Rodriguez",2026-03-05 17-04-25,False
-11,83,478.11,Food,"Wu, Brooks and Gill",2026-02-09 18-06-09,True
-12,59,125.12,Shopping,Smith Ltd,2026-04-04 12-27-50,False
-13,14,671.26,Bills,Deleon-Ross,2026-01-26 08-54-11,True
-14,22,711.0,Entertainment,"Warren, Blackburn and Guzman",2026-01-15 14-37-54,False
-15,1,3.95,Shopping,"Welch, Brown and Bass",2026-02-04 17-26-18,True
-16,2,924.59,Bills,Perez Group,2026-04-16 00-01-22,True
-17,47,271.8,Food,Williamson-Moody,2026-05-08 13-04-25,False
-18,32,659.91,Food,Johnston Group,2026-04-05 07-36-38,False
-19,30,649.99,Entertainment,Kim Inc,2026-02-04 22-54-50,False
-20,69,387.48,Shopping,Russo Ltd,2026-02-28 19-17-34,False
-21,15,106.52,Bills,"Martinez, Dyer and Williams",2026-06-10 14-19-04,True
-22,46,556.17,Entertainment,Butler-Crane,2026-04-27 09-08-29,True
-23,41,43.99,Bills,Gutierrez-Hill,2026-01-30 21-38-14,True
-24,89,200.57,Shopping,"Douglas, Rodriguez and Jones",2026-02-03 13-15-45,True
-25,43,940.29,Bills,Fields-Williamson,2026-04-07 00-20-33,True
-26,45,765.13,Bills,Wilson-Moore,2026-01-01 20-10-46,True
-27,80,18.72,Shopping,Wilson-Lewis,2026-06-15 08-12-34,True
-28,93,701.37,Food,"Trevino, Arnold and Contreras",2026-05-06 10-03-29,False
-29,5,837.26,Shopping,Acosta LLC,2026-01-28 20-57-34,False
-30,27,744.13,Shopping,Francis-Wilson,2026-05-05 01-54-49,True
-31,31,970.69,Shopping,Franklin Inc,2026-06-04 17-55-20,False
-32,87,410.66,Shopping,Andrews PLC,2026-06-05 16-45-31,False
-33,61,514.22,Bills,Grimes-Maddox,2026-01-06 12-28-17,False
-34,3,60.44,Bills,Copeland Ltd,2026-05-07 11-06-01,False
-35,80,764.97,Bills,Martin-Guerrero,2026-06-02 14-53-00,True
-36,23,837.04,Shopping,"Ruiz, Adkins and Lee",2026-03-03 15-05-50,False
-37,36,449.4,Entertainment,"Anderson, Mcknight and Craig",2026-03-14 18-10-23,True
-38,74,340.55,Food,"Fowler, Downs and Gross",2026-06-16 23-39-59,False
-39,2,837.39,Bills,Lane-Roach,2026-02-01 03-52-03,False
-40,59,970.58,Bills,"Nixon, Rivera and Stanley",2026-04-29 04-50-31,True
-41,8,193.99,Shopping,Morse-Carr,2026-02-12 05-47-22,True
-42,28,516.93,Shopping,Rodriguez-Cameron,2026-04-08 07-47-20,False
-43,82,197.15,Food,Adams-Harding,2026-03-27 19-09-14,True
-44,62,908.5,Shopping,"Gonzalez, Adams and Walker",2026-06-01 12-49-59,False
-45,58,103.91,Entertainment,Stone-Green,2026-04-14 14-57-11,False
-46,88,205.6,Entertainment,"Marshall, Mack and Thompson",2026-06-14 05-06-55,False
-47,96,113.96,Shopping,Salinas and Sons,2026-03-04 19-47-43,False
-48,18,760.94,Shopping,"Watson, Black and Clark",2026-01-04 04-23-21,True
-49,56,851.93,Entertainment,Dunn Group,2026-06-14 08-14-06,True
-50,21,406.96,Bills,Bender Group,2026-01-14 09-48-11,True
-51,94,632.41,Bills,Booth-Jennings,2026-05-27 12-17-03,True
-52,81,721.38,Food,Williams and Sons,2026-04-26 04-59-01,True
-53,59,193.46,Shopping,"Nelson, Cook and Charles",2026-05-24 04-01-31,False
-54,12,787.12,Entertainment,Evans PLC,2026-03-23 06-03-31,False
-55,27,746.44,Entertainment,"Bailey, Mcclure and Olson",2026-04-08 19-09-22,True
-56,48,152.36,Food,Yang Inc,2026-04-09 04-16-40,False
-57,48,246.84,Food,Spencer Inc,2026-02-10 15-14-03,False
-58,38,754.56,Shopping,Smith-Jones,2026-01-21 10-01-55,True
-59,13,365.06,Entertainment,Smith and Sons,2026-04-12 21-03-11,True
-60,87,117.21,Bills,"Stewart, Fernandez and Grant",2026-03-28 07-44-05,False
-61,65,916.71,Bills,Dunn Group,2026-05-20 10-47-26,True
-62,58,199.86,Shopping,"Jenkins, Gallegos and Pennington",2026-03-11 03-26-24,True
-63,63,653.7,Bills,Mcdonald and Sons,2026-01-14 19-16-42,False
-64,73,709.43,Bills,"Shepard, Mullins and Howard",2026-03-14 15-59-30,True
-65,67,478.84,Shopping,Maynard-Perry,2026-05-01 01-15-38,True
-66,32,899.17,Shopping,"Ramirez, Oneill and Mcgee",2026-05-27 19-35-51,True
-67,17,21.82,Shopping,"Peterson, Payne and Nelson",2026-01-14 03-37-21,False
-68,30,317.36,Entertainment,Moore-Bentley,2026-04-07 18-59-42,False
-69,37,262.81,Food,Cannon LLC,2026-03-29 07-18-59,True
-70,7,789.49,Food,"Taylor, Ross and Dillon",2026-02-05 19-48-53,False
-71,13,901.78,Shopping,Odom LLC,2026-03-27 11-36-17,False
-72,77,466.58,Entertainment,Sandoval Ltd,2026-04-29 20-11-55,True
-73,68,689.14,Bills,Evans Inc,2026-02-10 09-43-25,True
-74,6,290.49,Food,Sawyer-Brown,2026-03-17 06-25-37,False
-75,10,253.95,Bills,Blake-Martinez,2026-01-23 05-42-45,False
-76,14,76.29,Bills,"Patel, Nelson and Munoz",2026-01-20 14-11-43,True
-77,83,569.15,Bills,"Ramsey, Wilcox and Davies",2026-03-01 22-34-26,False
-78,79,222.2,Food,Anderson PLC,2026-02-03 08-24-51,True
-79,94,9.1,Shopping,Ryan-Taylor,2026-04-13 09-58-40,False
-80,51,212.99,Food,Myers LLC,2026-04-26 11-35-57,True
-81,40,541.63,Entertainment,Porter Ltd,2026-04-06 02-48-20,False
-82,88,124.63,Entertainment,Stephens Group,2026-05-09 22-53-22,False
-83,1,273.66,Bills,Carson-Patrick,2026-05-06 23-18-50,True
-84,29,371.3,Bills,Garcia-Mccarthy,2026-05-30 02-24-20,False
-85,53,95.14,Shopping,Thomas and Sons,2026-04-23 08-45-07,True
-86,40,842.15,Bills,"Moore, Davis and Smith",2026-02-05 12-47-23,False
-87,56,796.5,Food,Macdonald-Harrison,2026-01-17 03-14-31,False
-88,23,59.72,Food,Flores PLC,2026-01-26 15-45-59,True
-89,84,295.1,Entertainment,"Jones, Park and Hester",2026-04-03 08-31-47,False
-90,44,545.26,Entertainment,"Cummings, Day and Weber",2026-01-22 13-32-48,False
-91,58,819.84,Entertainment,Lucas-Stanton,2026-01-20 06-30-51,True
-92,85,273.37,Shopping,Davila-Nichols,2026-02-21 23-58-04,False
-93,6,274.54,Bills,Bartlett-Mccormick,2026-01-20 18-25-20,False
-94,7,598.64,Bills,"Wilson, Osborne and Harris",2026-05-21 02-02-44,True
-95,14,569.44,Bills,Henderson-Webb,2026-06-02 17-46-53,False
-96,21,145.08,Food,Norman-Murphy,2026-04-25 19-04-58,False
-97,74,701.67,Bills,"Nelson, Byrd and Mitchell",2026-01-10 03-47-14,False
-98,26,375.63,Entertainment,"Everett, Lewis and Wilson",2026-02-01 06-17-10,True
-99,10,357.46,Bills,Castro Group,2026-01-10 06-08-22,True
-100,53,6.52,Bills,Wheeler Ltd,2026-03-22 12-32-45,False
-101,81,880.63,Food,Walker-Garza,2026-04-18 16-39-39,True
-102,5,568.45,Bills,"Smith, Duran and Moore",2026-03-03 03-03-35,False
-103,52,576.33,Food,Glenn PLC,2026-05-05 10-02-05,False
-104,90,577.98,Shopping,Lopez Group,2026-01-28 18-26-02,True
-105,32,413.65,Shopping,"Williams, Vincent and Monroe",2026-02-02 10-44-25,False
-106,3,720.73,Food,Carey-Cox,2026-04-26 13-41-07,True
-107,9,198.42,Food,"Mata, Robles and Rocha",2026-05-25 06-41-15,False
-108,18,745.72,Entertainment,Ford-Cox,2026-05-06 03-52-24,False
-109,77,679.72,Shopping,Taylor LLC,2026-01-01 10-55-37,True
-110,38,530.34,Food,"Richardson, Torres and Haynes",2026-03-31 06-31-06,True
-111,3,176.83,Shopping,"Hayden, Robinson and Alexander",2026-01-10 20-26-43,False
-112,24,17.85,Shopping,Doyle-Torres,2026-01-12 13-56-12,False
-113,10,485.95,Food,Conner-Knox,2026-01-28 03-49-21,False
-114,80,305.53,Food,"Braun, Harvey and Caldwell",2026-04-01 15-38-01,True
-115,64,56.75,Entertainment,Davis-Bridges,2026-03-31 14-04-42,False
-116,38,69.89,Bills,"Turner, Jones and Guzman",2026-06-13 12-26-11,False
-117,93,452.76,Shopping,Walker Group,2026-05-20 21-08-02,False
-118,27,845.82,Food,Hernandez and Sons,2026-01-12 20-18-46,True
-119,60,478.38,Food,Joseph Inc,2026-06-15 00-36-06,False
-120,68,879.96,Shopping,Sparks Ltd,2026-05-07 09-21-06,True
-121,80,39.68,Shopping,Mclean-Martinez,2026-05-29 13-28-26,True
-122,17,90.22,Shopping,Tyler-Carey,2026-03-16 10-23-23,True
-123,28,19.29,Bills,Richard and Sons,2026-05-01 05-47-15,True
-124,65,248.56,Bills,Fields and Sons,2026-02-03 06-56-57,False
-125,83,931.68,Shopping,"Bowen, Krueger and Shea",2026-04-16 03-28-03,True
-126,37,94.49,Shopping,"Murphy, Wood and Thomas",2026-04-20 01-37-42,False
-127,88,656.05,Entertainment,Moore Inc,2026-05-31 15-04-52,True
-128,43,227.67,Entertainment,"Bradshaw, Sutton and Owens",2026-05-25 23-25-56,True
-129,7,445.25,Entertainment,Carpenter Group,2026-01-05 12-28-02,False
-130,32,271.49,Food,Morgan LLC,2026-02-20 04-04-58,True
-131,59,272.02,Entertainment,Kramer and Sons,2026-01-17 14-50-53,False
-132,58,511.46,Bills,"Walter, Nash and Wiley",2026-02-16 01-30-40,True
-133,75,111.5,Entertainment,"Garcia, Rice and Bennett",2026-02-05 16-59-37,True
-134,52,1.76,Food,Wilson PLC,2026-03-28 11-10-19,False
-135,71,186.98,Entertainment,Houston and Sons,2026-01-16 23-34-32,False
-136,48,259.61,Bills,"Noble, Durham and Fox",2026-05-01 04-49-51,False
-137,47,728.49,Bills,Price PLC,2026-05-25 06-37-24,False
-138,2,692.52,Bills,Robinson PLC,2026-03-31 03-31-01,True
-139,63,754.33,Entertainment,Beck-Rich,2026-03-01 05-58-51,False
-140,21,25.47,Shopping,"Calhoun, Andrews and Mcdonald",2026-03-13 22-57-52,False
-141,61,109.83,Bills,Moore Inc,2026-01-01 21-37-36,False
-142,83,812.71,Shopping,Hughes Inc,2026-03-18 09-04-10,False
-143,60,594.99,Entertainment,Gonzales-Cruz,2026-04-02 15-47-45,False
-144,33,720.77,Shopping,"Brown, Lopez and Elliott",2026-04-23 12-07-40,True
-145,37,9.46,Entertainment,"Nichols, Mooney and Castaneda",2026-01-14 09-10-53,False
-146,39,922.99,Shopping,"Brown, Bailey and Perez",2026-03-14 07-42-27,False
-147,14,970.06,Bills,Taylor-Johnson,2026-04-12 02-01-39,False
-148,8,154.27,Shopping,"Matthews, Williams and Snyder",2026-02-12 01-58-18,True
-149,23,13.26,Entertainment,"Keller, Davila and Copeland",2026-04-12 03-43-21,True
-150,5,526.88,Food,Roberts-Rodgers,2026-04-28 09-07-38,True
-151,79,42.05,Shopping,Dixon-Thomas,2026-02-28 00-52-18,True
-152,32,14.8,Entertainment,"Jones, Pierce and Davis",2026-06-06 06-09-24,True
-153,62,862.46,Bills,Collins Group,2026-05-05 10-00-30,True
-154,65,500.43,Entertainment,Stone-Byrd,2026-03-11 11-17-18,False
-155,59,14.71,Bills,"Mcfarland, Cox and Christian",2026-02-06 09-34-46,False
-156,58,909.02,Bills,Harper-Lowery,2026-04-29 00-07-37,False
-157,18,777.56,Bills,"Lamb, Vega and Boyle",2026-03-24 03-52-00,False
-158,41,798.61,Food,"Williams, Miles and Deleon",2026-05-04 14-02-21,True
-159,47,177.88,Food,Mosley Ltd,2026-06-08 10-33-23,False
-160,56,488.36,Food,Wright Inc,2026-01-10 08-33-13,False
-161,10,929.37,Food,Hines-Carlson,2026-01-13 21-41-01,False
-162,85,282.12,Food,Garner LLC,2026-02-02 04-17-53,False
-163,52,979.84,Food,Morris LLC,2026-02-19 16-10-26,True
-164,94,931.75,Shopping,"Perry, Williams and Ramirez",2026-05-28 12-23-18,True
-165,10,5.66,Shopping,"Martin, Rivera and Gill",2026-02-12 11-55-14,True
-166,30,846.07,Shopping,"Ramirez, Brown and Joyce",2026-06-01 10-29-29,False
-167,46,696.04,Bills,Avery Group,2026-05-07 05-01-44,False
-168,90,46.21,Food,Bird-Burgess,2026-04-04 01-58-11,True
-169,92,381.04,Bills,Thomas Ltd,2026-06-10 11-52-32,False
-170,25,429.73,Food,"Montoya, Nichols and Cruz",2026-03-23 03-09-40,False
-171,29,579.51,Food,Mclean-Michael,2026-03-26 09-38-41,True
-172,60,709.07,Shopping,"Cunningham, Brooks and Williams",2026-01-26 07-12-15,True
-173,84,765.4,Food,Bush LLC,2026-04-21 18-39-20,False
-174,77,33.33,Shopping,"Durham, White and Collins",2026-01-20 17-31-04,False
-175,49,745.74,Shopping,Diaz Group,2026-05-12 18-05-53,True
-176,28,186.54,Shopping,Thompson Inc,2026-03-31 00-40-20,False
-177,86,970.6,Food,"Higgins, Peterson and Hughes",2026-03-24 10-48-15,False
-178,70,472.09,Bills,"Pitts, Mccann and Hernandez",2026-01-19 08-50-06,True
-179,11,341.76,Bills,Villanueva Group,2026-03-25 14-46-41,False
-180,73,514.52,Shopping,Payne LLC,2026-01-11 02-59-04,True
-181,93,801.61,Entertainment,"Tyler, Anderson and Weaver",2026-03-08 20-54-44,False
-182,36,160.34,Shopping,Beck-Phillips,2026-06-17 05-53-45,True
-183,30,335.9,Shopping,"Taylor, Mccoy and Mack",2026-01-31 15-05-31,False
-184,43,737.7,Food,"Coleman, Washington and Holden",2026-04-07 11-53-32,False
-185,49,170.6,Shopping,Sherman LLC,2026-06-12 09-21-28,True
-186,37,164.82,Food,Graves and Sons,2026-05-20 21-42-43,True
-187,97,387.03,Shopping,"Atkins, Lucero and Swanson",2026-01-20 15-31-09,True
-188,50,375.21,Food,Jordan Ltd,2026-04-07 18-13-03,False
-189,1,637.23,Food,"Dudley, White and Weaver",2026-04-04 16-59-41,True
-190,12,379.76,Shopping,"Hull, Wong and Jacobs",2026-02-16 06-20-10,False
-191,14,530.23,Entertainment,Wilson LLC,2026-05-17 23-55-45,True
-192,18,761.8,Entertainment,Kelly-Nichols,2026-01-17 13-40-39,True
-193,25,131.55,Shopping,"Jones, Andrews and Buchanan",2026-06-09 19-59-24,False
-194,11,339.14,Food,Forbes-Huerta,2026-02-09 02-08-12,True
-195,18,893.05,Entertainment,Sanchez PLC,2026-02-02 16-42-46,True
-196,45,599.48,Food,Lamb-Jackson,2026-03-20 01-46-44,True
-197,47,776.72,Food,"Harvey, Anderson and Davis",2026-04-23 01-01-50,True
-198,78,303.12,Bills,"Williams, Gutierrez and Hebert",2026-04-23 16-37-07,False
-199,33,697.59,Food,"Taylor, Stephens and Rice",2026-02-27 08-41-27,False
-200,100,592.93,Bills,"Foster, Gonzales and Velasquez",2026-03-05 02-50-29,False
-201,73,365.89,Bills,"Scott, Murphy and Conrad",2026-02-02 22-14-43,False
-202,83,399.81,Food,Wiggins Group,2026-02-08 19-27-50,False
-203,20,187.9,Shopping,"Hill, Hoover and Chandler",2026-02-19 06-17-49,False
-204,89,616.39,Entertainment,"Washington, Castro and Norris",2026-02-23 03-12-04,False
-205,43,281.21,Bills,"Thomas, Rhodes and Peterson",2026-06-16 00-13-35,False
-206,80,400.31,Entertainment,Orozco-Campos,2026-05-23 01-27-20,True
-207,14,601.97,Bills,Steele Group,2026-02-27 20-28-47,False
-208,90,860.73,Shopping,Jacobson Ltd,2026-03-18 06-42-17,False
-209,92,187.11,Entertainment,Flores-Porter,2026-04-09 12-02-54,False
-210,72,26.55,Food,"Velez, Brown and Carter",2026-02-01 09-50-42,True
-211,58,645.6,Shopping,Green-Jensen,2026-03-16 00-44-17,True
-212,68,870.59,Entertainment,Sullivan Group,2026-05-27 19-59-20,True
-213,86,799.82,Shopping,Boyer-Martinez,2026-06-09 14-32-05,False
-214,29,794.42,Entertainment,"Edwards, Scott and Wilkinson",2026-04-11 15-59-45,False
-215,52,826.14,Entertainment,Chang-Young,2026-02-14 16-29-44,True
-216,79,465.55,Entertainment,Morales Ltd,2026-01-27 05-16-39,True
-217,42,217.34,Shopping,"Parker, Williams and Chang",2026-02-07 16-02-24,True
-218,81,559.31,Bills,"Cook, Dixon and West",2026-02-07 00-49-56,False
-219,74,216.48,Food,"Acevedo, Bowers and Jones",2026-04-05 06-08-55,False
-220,14,493.39,Shopping,Pope-Edwards,2026-03-16 23-45-59,True
-221,39,314.42,Entertainment,"Richards, Powell and Fitzgerald",2026-06-05 14-47-02,False
-222,79,702.31,Bills,Gibson-Diaz,2026-04-11 05-41-29,False
-223,13,334.15,Entertainment,"Nielsen, Goodman and Cardenas",2026-03-16 19-02-03,True
-224,53,505.04,Entertainment,Carrillo Ltd,2026-03-26 14-49-11,True
-225,3,49.62,Entertainment,Sanders-Carrillo,2026-05-16 08-45-50,True
-226,99,768.81,Shopping,"Porter, Holland and Russell",2026-06-15 22-02-20,True
-227,69,214.35,Entertainment,White Inc,2026-05-29 05-38-40,False
-228,8,567.87,Shopping,Mack Ltd,2026-02-02 01-24-27,True
-229,15,67.78,Food,Howard Group,2026-01-01 21-39-54,False
-230,22,285.32,Shopping,Thomas-Cardenas,2026-01-07 18-08-00,True
-231,48,100.7,Bills,Bennett Inc,2026-05-20 00-05-06,False
-232,80,475.04,Bills,Walsh-Yu,2026-02-11 16-01-41,True
-233,86,306.89,Entertainment,Melendez Ltd,2026-04-09 21-54-39,False
-234,20,782.69,Bills,"Crawford, Campbell and Kaiser",2026-03-12 10-49-57,True
-235,82,948.58,Food,Romero-Chapman,2026-04-25 08-42-55,False
-236,76,911.73,Shopping,"Mays, Ellison and Hernandez",2026-01-01 15-19-33,True
-237,81,325.74,Bills,Johnson-Watson,2026-03-07 07-07-56,True
-238,67,257.25,Food,Gordon-Taylor,2026-04-25 16-05-35,False
-239,61,655.78,Food,"Wilson, Becker and Graham",2026-05-23 00-58-13,False
-240,51,989.75,Shopping,"Maldonado, Bryant and Chambers",2026-02-11 03-59-34,True
-241,15,572.39,Bills,Bush and Sons,2026-03-13 14-11-19,True
-242,88,640.89,Entertainment,"Murphy, Mcgee and Brown",2026-04-20 22-08-56,True
-243,96,226.33,Shopping,"King, Harrington and Trujillo",2026-04-06 07-28-23,True
-244,89,356.56,Bills,"Hernandez, Marsh and Fletcher",2026-04-13 07-01-48,False
-245,70,903.28,Bills,Obrien Group,2026-03-08 17-44-51,False
-246,29,769.33,Entertainment,Chapman Ltd,2026-03-28 16-01-14,True
-247,81,305.5,Shopping,Carter-Rivas,2026-04-14 11-09-28,False
-248,100,395.49,Entertainment,Cisneros LLC,2026-05-07 06-22-52,True
-249,96,144.48,Shopping,"Sanford, Wolf and Chang",2026-01-17 15-47-17,False
-250,19,383.84,Shopping,Young Inc,2026-06-11 01-25-35,False
-251,15,204.05,Bills,"Gilbert, Terry and Holloway",2026-04-10 15-09-45,True
-252,99,91.56,Food,Riley-Scott,2026-02-20 13-04-20,True
-253,78,846.88,Bills,Lindsey Ltd,2026-03-21 17-57-33,True
-254,49,606.36,Entertainment,"Harper, Adams and White",2026-04-18 06-31-23,True
-255,17,30.61,Food,Gonzalez PLC,2026-05-01 17-46-56,False
-256,11,410.4,Entertainment,"Anderson, Gutierrez and Parker",2026-05-24 04-59-55,False
-257,10,154.38,Food,Schroeder-Watkins,2026-05-15 03-55-14,True
-258,88,192.77,Bills,"Hall, Lewis and Kim",2026-05-31 21-42-01,False
-259,52,812.1,Bills,Hamilton Ltd,2026-04-17 04-21-52,False
-260,41,806.8,Bills,Green and Sons,2026-02-13 13-22-47,True
-261,26,345.48,Bills,Hernandez Inc,2026-04-15 19-34-51,True
-262,41,845.63,Food,Meyer-Guzman,2026-02-08 04-17-27,True
-263,93,898.98,Bills,Pierce Inc,2026-03-12 06-02-18,False
-264,39,979.32,Bills,"Diaz, Adams and Campbell",2026-02-04 17-17-14,False
-265,46,369.58,Shopping,Hughes LLC,2026-06-19 03-40-36,False
-266,57,536.64,Bills,Jones-Sanders,2026-04-19 03-11-48,True
-267,53,681.86,Food,"Roberts, Mendoza and Smith",2026-01-07 17-35-45,False
-268,16,19.87,Bills,Russell-Christensen,2026-05-14 01-52-03,False
-269,64,615.51,Bills,Foley-Banks,2026-03-24 22-17-44,False
-270,72,389.75,Food,Bass Inc,2026-04-29 12-28-24,True
-271,23,261.96,Bills,Wright-Mcneil,2026-01-07 23-52-44,True
-272,75,641.29,Entertainment,"Humphrey, Holt and Gillespie",2026-02-08 08-52-33,True
-273,1,79.54,Shopping,Richardson Ltd,2026-02-19 09-35-27,False
-274,33,329.64,Food,Green LLC,2026-04-30 20-38-43,True
-275,6,357.45,Entertainment,Smith Ltd,2026-04-10 16-55-55,False
-276,3,684.83,Bills,"Powers, Edwards and Obrien",2026-05-05 17-20-24,False
-277,22,316.5,Food,Boyd Group,2026-01-27 23-38-10,True
-278,30,648.41,Food,Miller-Mendez,2026-03-02 00-27-04,True
-279,24,534.78,Shopping,"Sanchez, Powers and Lopez",2026-05-29 15-48-13,False
-280,31,665.51,Food,"Berger, Chapman and Baxter",2026-03-11 04-57-46,True
-281,18,624.23,Entertainment,Kemp-Douglas,2026-01-19 22-22-16,True
-282,51,692.46,Food,Mccarthy Group,2026-03-28 14-46-24,False
-283,7,69.46,Entertainment,"Gonzalez, Clements and Robinson",2026-02-18 07-08-46,True
-284,17,93.13,Food,Williams Ltd,2026-04-08 12-18-50,True
-285,86,247.22,Food,Brewer-Allen,2026-04-17 13-46-43,True
-286,45,554.25,Food,Anderson Ltd,2026-02-20 07-59-32,True
-287,41,441.84,Bills,"Finley, Russell and Mckinney",2026-03-28 10-06-25,True
-288,87,935.45,Bills,"Tapia, Miller and King",2026-03-04 20-10-44,False
-289,36,783.99,Shopping,Pena Group,2026-04-17 11-25-27,False
-290,17,310.44,Shopping,Quinn Inc,2026-06-16 17-58-16,False
-291,20,470.72,Shopping,Jackson-Banks,2026-01-04 23-09-41,False
-292,24,993.2,Bills,Martinez-Walters,2026-05-23 08-02-45,False
-293,67,366.78,Entertainment,"Roberts, Hernandez and Russell",2026-01-07 09-42-47,False
-294,20,734.1,Food,Adams Inc,2026-01-01 18-30-21,False
-295,61,687.02,Entertainment,Forbes Ltd,2026-03-04 14-31-47,False
-296,8,942.9,Bills,Blankenship LLC,2026-03-20 03-10-44,False
-297,50,331.02,Shopping,Miller Inc,2026-04-18 08-37-13,False
-298,67,988.46,Entertainment,"Stevens, Soto and Rangel",2026-04-06 16-20-49,True
-299,15,85.95,Food,"Hernandez, Norris and Murphy",2026-02-14 01-05-03,False
-300,47,592.06,Shopping,Hammond-Butler,2026-03-29 03-53-24,True
-301,49,750.86,Shopping,Wang and Sons,2026-03-28 07-27-02,False
-302,52,209.83,Shopping,"Powell, Huffman and Wilcox",2026-02-20 22-32-28,True
-303,89,14.66,Shopping,Ward Ltd,2026-04-06 16-08-56,False
-304,50,960.39,Bills,Nicholson-Goodman,2026-04-01 01-04-49,True
-305,25,159.56,Shopping,Chavez Group,2026-06-05 21-29-58,True
-306,66,611.7,Food,Hale PLC,2026-02-14 22-37-17,True
-307,29,333.81,Shopping,Hernandez-Brennan,2026-01-31 10-07-46,True
-308,33,37.14,Food,Mills Inc,2026-04-19 05-43-32,False
-309,28,850.85,Food,Harper-Stuart,2026-01-31 09-34-24,True
-310,100,556.6,Shopping,Woods Inc,2026-03-18 22-57-49,False
-311,49,642.64,Food,Campbell PLC,2026-01-07 02-10-13,False
-312,55,505.34,Shopping,"West, Davis and King",2026-04-20 04-24-54,False
-313,7,966.26,Food,"Foster, Morales and Williamson",2026-04-18 04-37-34,False
-314,13,906.78,Shopping,Davis LLC,2026-05-26 00-47-31,False
-315,16,351.33,Entertainment,Ramirez Ltd,2026-04-12 03-48-26,True
-316,68,975.33,Food,"Rogers, Garcia and Smith",2026-05-25 08-25-45,True
-317,26,331.88,Bills,Strong and Sons,2026-02-06 21-53-42,False
-318,89,795.41,Shopping,Carter PLC,2026-01-20 13-12-23,False
-319,43,175.12,Entertainment,Kelley Group,2026-02-03 19-24-55,True
-320,21,589.7,Bills,Franklin Ltd,2026-05-08 09-20-23,False
-321,85,248.2,Bills,"Huber, Hernandez and Arroyo",2026-04-24 13-23-32,True
-322,30,198.1,Bills,"Martin, Smith and Warren",2026-05-12 07-54-43,False
-323,83,645.59,Entertainment,"Smith, Ryan and Barnes",2026-02-21 00-41-19,False
-324,66,282.41,Bills,"Lee, Gonzalez and Copeland",2026-01-30 04-02-10,False
-325,64,473.82,Bills,Reeves LLC,2026-05-08 03-17-41,True
-326,3,868.54,Entertainment,Clark-Bailey,2026-03-03 12-44-06,True
-327,64,42.46,Shopping,Shea-Nelson,2026-03-10 18-37-48,False
-328,36,342.95,Shopping,Butler LLC,2026-03-31 08-13-26,False
-329,7,209.57,Bills,Simmons-Farmer,2026-06-06 14-54-05,True
-330,17,939.01,Entertainment,Perez Inc,2026-03-17 00-20-08,False
-331,35,636.45,Bills,Duke-Bryan,2026-03-23 03-39-46,False
-332,10,250.68,Shopping,"Stevenson, Tyler and Phillips",2026-04-17 00-22-43,False
-333,7,208.16,Entertainment,"Rivera, Blanchard and Gallagher",2026-01-26 10-55-14,True
-334,96,720.78,Food,Diaz-Collins,2026-05-05 17-32-39,True
-335,70,291.59,Entertainment,Richard-Fisher,2026-04-05 01-57-51,False
-336,49,847.0,Shopping,"Stewart, Rodriguez and Chan",2026-03-09 08-20-40,False
-337,16,196.91,Entertainment,Ford-Simpson,2026-05-17 11-06-53,True
-338,97,517.29,Shopping,"Herrera, Contreras and Parker",2026-05-15 20-47-50,False
-339,32,931.8,Entertainment,"Bryant, Keller and Graves",2026-01-04 22-37-50,False
-340,51,525.23,Food,Sanchez Ltd,2026-03-06 10-48-01,True
-341,21,552.91,Bills,Graves Ltd,2026-02-02 19-14-13,True
-342,53,623.92,Shopping,Adams-Young,2026-01-04 16-45-18,False
-343,23,295.63,Shopping,Shaw Group,2026-04-24 15-44-38,False
-344,54,657.78,Entertainment,Berger Group,2026-04-03 08-52-54,True
-345,100,538.01,Entertainment,Gamble Inc,2026-04-05 07-27-24,False
-346,5,45.13,Shopping,Hatfield-Knox,2026-03-21 21-14-37,False
-347,59,575.3,Shopping,Williams-Fleming,2026-01-05 06-48-43,False
-348,87,316.25,Entertainment,Murray-Anderson,2026-05-23 11-21-09,False
-349,75,679.84,Bills,"Smith, Payne and Johnson",2026-05-03 18-33-53,True
-350,42,108.42,Bills,Wilson PLC,2026-05-25 01-40-27,False
-351,58,32.12,Shopping,Hickman-Parsons,2026-04-16 06-16-03,False
-352,20,156.61,Food,Reynolds-Thomas,2026-03-11 03-58-20,False
-353,62,797.55,Entertainment,Reyes Ltd,2026-04-14 03-16-59,True
-354,47,668.78,Entertainment,Davies PLC,2026-02-27 07-54-42,True
-355,49,558.23,Shopping,"Lang, Wise and Hammond",2026-03-22 23-17-59,False
-356,20,236.9,Entertainment,Chambers-Ayala,2026-04-21 09-35-46,False
-357,37,284.02,Food,Davis-Gay,2026-03-22 13-35-00,False
-358,84,188.89,Shopping,"Porter, Velazquez and Stewart",2026-01-19 19-57-15,True
-359,40,422.15,Bills,Adkins-Castillo,2026-01-11 17-01-07,True
-360,51,270.85,Food,Moore Group,2026-02-19 08-54-39,True
-361,78,672.36,Shopping,Garcia Ltd,2026-04-22 06-51-48,True
-362,11,10.01,Entertainment,Casey and Sons,2026-06-02 12-52-12,False
-363,79,829.32,Bills,Murphy Ltd,2026-02-10 15-05-29,True
-364,79,924.52,Entertainment,Harris-Ryan,2026-04-06 01-16-30,True
-365,81,154.78,Shopping,Mendoza Inc,2026-05-10 11-49-09,False
-366,42,111.56,Shopping,Oliver-Atkins,2026-01-08 13-28-33,True
-367,43,16.9,Bills,Ritter-Gomez,2026-05-16 05-31-48,False
-368,68,622.28,Shopping,Mckee Group,2026-05-04 14-30-27,True
-369,41,97.45,Bills,Collins Group,2026-02-08 05-25-54,False
-370,6,586.79,Bills,"Jordan, Mcdonald and Tapia",2026-03-23 23-51-29,True
-371,36,810.52,Shopping,Lee Inc,2026-03-11 18-11-29,True
-372,94,942.11,Food,Mathews LLC,2026-01-16 07-46-45,False
-373,11,719.38,Food,Richard Inc,2026-06-12 21-23-09,True
-374,3,919.94,Bills,Henry-Mitchell,2026-04-03 11-47-06,True
-375,99,502.49,Bills,Rodriguez Ltd,2026-05-11 17-59-54,False
-376,80,498.04,Shopping,Leonard Ltd,2026-06-16 22-31-19,True
-377,65,127.55,Entertainment,King-Sanford,2026-02-14 03-19-43,False
-378,91,77.88,Food,Powell PLC,2026-01-18 16-04-25,False
-379,40,312.83,Bills,Thomas LLC,2026-02-21 15-23-50,False
-380,39,969.89,Food,Rodriguez Group,2026-04-04 19-19-29,True
-381,25,882.62,Shopping,"Lucas, Sawyer and Bright",2026-02-25 07-12-46,True
-382,55,822.64,Entertainment,"Jimenez, Long and Mcgee",2026-01-02 18-03-23,False
-383,58,662.39,Bills,"Hernandez, Williams and Smith",2026-01-29 21-55-12,True
-384,9,429.44,Bills,Williams LLC,2026-06-09 19-43-39,True
-385,84,208.22,Bills,"Jennings, White and Duncan",2026-03-27 19-53-42,False
-386,89,856.83,Entertainment,"Carrillo, Knight and Duncan",2026-01-28 14-42-46,True
-387,99,35.63,Entertainment,"Scott, Burch and Thompson",2026-04-09 10-14-07,False
-388,18,165.89,Food,Smith and Sons,2026-02-23 20-57-47,True
-389,1,705.25,Entertainment,"Anderson, Logan and Lawrence",2026-04-14 05-40-51,True
-390,55,719.95,Bills,Valencia-Donaldson,2026-05-19 18-16-56,False
-391,57,735.31,Food,Day and Sons,2026-05-19 01-49-42,True
-392,70,896.21,Entertainment,"Dean, Watson and Howard",2026-06-14 23-45-08,True
-393,77,867.91,Bills,"Thomas, Harrison and Thompson",2026-03-24 09-56-53,False
-394,89,30.0,Bills,Trujillo-Peterson,2026-01-24 12-13-21,True
-395,16,796.53,Bills,Adkins LLC,2026-05-02 19-01-53,False
-396,29,913.46,Food,"Morgan, Martinez and Parks",2026-02-26 04-52-23,False
-397,8,423.2,Entertainment,Turner-Martin,2026-02-22 11-22-00,True
-398,26,339.91,Bills,"Robinson, Elliott and Riley",2026-05-19 08-31-49,False
-399,40,823.09,Shopping,"Mack, Campbell and Nunez",2026-06-14 22-39-31,False
-400,5,794.22,Food,"Daniels, Lewis and Walton",2026-04-30 11-12-47,True
-401,71,712.61,Food,Ward-Harris,2026-02-19 06-21-42,True
-402,15,83.76,Bills,Tucker PLC,2026-05-25 07-17-14,False
-403,79,253.12,Bills,Vasquez-Ross,2026-04-16 19-34-08,False
-404,5,307.86,Food,Perez-Gomez,2026-04-20 09-02-35,False
-405,30,123.64,Food,"Hart, Scott and Parsons",2026-04-29 01-32-47,False
-406,4,752.23,Bills,Bradley PLC,2026-03-13 17-10-46,False
-407,19,173.48,Food,Morton Group,2026-02-14 08-12-18,False
-408,99,631.06,Food,Mathews Ltd,2026-02-23 04-21-13,True
-409,76,784.92,Shopping,Hurley PLC,2026-03-30 04-05-04,False
-410,29,597.41,Food,Floyd-Hernandez,2026-05-14 03-35-22,False
-411,1,407.68,Shopping,Garcia-Freeman,2026-01-10 00-32-21,True
-412,46,882.48,Bills,"Brewer, Lopez and Saunders",2026-01-09 22-56-33,True
-413,66,526.96,Bills,"Jones, Mcpherson and Schroeder",2026-03-04 12-05-21,True
-414,32,423.95,Entertainment,White-Marshall,2026-06-07 16-19-05,False
-415,58,983.68,Shopping,Lane-Greer,2026-06-01 21-02-47,True
-416,70,892.87,Entertainment,Donovan Ltd,2026-02-12 12-46-35,False
-417,77,1.17,Shopping,Trujillo-Wright,2026-03-25 10-22-00,False
-418,41,848.32,Food,Henderson Group,2026-06-17 07-00-18,True
-419,29,336.73,Bills,Lee Group,2026-05-26 12-29-23,False
-420,88,157.37,Bills,Bruce LLC,2026-05-18 03-04-16,False
-421,100,940.25,Entertainment,"Hopkins, Alvarado and Todd",2026-02-01 20-20-14,True
-422,94,287.51,Food,Tran Group,2026-06-17 06-53-52,True
-423,42,759.0,Food,Evans Inc,2026-01-21 21-42-15,False
-424,23,364.11,Bills,Mcgee and Sons,2026-05-04 16-54-11,True
-425,29,27.37,Food,Pitts Ltd,2026-03-24 08-29-31,True
-426,28,22.64,Shopping,Mcclure PLC,2026-02-10 18-21-20,False
-427,10,841.91,Entertainment,Parks-Grimes,2026-01-16 08-59-28,True
-428,46,293.62,Entertainment,"Rojas, Fields and Wheeler",2026-01-18 11-04-41,True
-429,33,470.8,Bills,Figueroa Inc,2026-02-23 05-38-31,True
-430,10,350.65,Food,"Smith, Snow and Lawson",2026-01-01 13-46-06,True
-431,82,744.6,Bills,"Flores, Carlson and Baker",2026-03-11 19-04-08,False
-432,96,380.72,Shopping,Haynes Group,2026-03-28 09-51-16,False
-433,48,529.62,Shopping,Matthews Ltd,2026-03-17 13-06-13,False
-434,98,723.72,Shopping,Rocha Group,2026-03-15 23-08-26,False
-435,72,41.78,Food,Schmidt-Chambers,2026-05-24 02-52-37,False
-436,95,996.67,Food,Clarke-Simon,2026-02-15 14-15-42,True
-437,91,741.7,Entertainment,Riley LLC,2026-01-22 18-19-45,True
-438,48,112.76,Shopping,"Jones, Mendoza and Medina",2026-05-30 00-58-30,False
-439,58,380.01,Bills,Walsh Inc,2026-03-04 12-15-46,False
-440,48,866.32,Entertainment,"Mason, Grant and Chandler",2026-01-02 14-31-24,False
-441,26,999.19,Shopping,Castillo Ltd,2026-06-06 00-05-16,True
-442,93,573.34,Entertainment,"Anderson, Daugherty and Brown",2026-03-10 09-54-58,True
-443,18,888.67,Shopping,"Paul, Guerrero and Brooks",2026-02-16 11-30-13,False
-444,60,748.17,Entertainment,Hale LLC,2026-05-29 12-37-21,True
-445,54,599.16,Bills,Anderson LLC,2026-05-09 23-05-33,False
-446,85,71.52,Food,Hernandez-Maldonado,2026-01-08 15-59-18,True
-447,58,320.96,Food,Griffin-Sharp,2026-03-29 10-09-10,True
-448,36,309.62,Bills,Hardy-Foster,2026-01-17 23-35-06,False
-449,50,687.51,Bills,Doyle-Johnson,2026-05-21 18-35-02,False
-450,23,501.55,Food,Nelson Inc,2026-04-28 18-46-26,False
-451,30,600.45,Bills,"Molina, Luna and Wood",2026-05-18 06-53-26,False
-452,86,298.69,Entertainment,"Jackson, Johnson and Tate",2026-02-13 20-46-24,True
-453,13,346.3,Shopping,Haas PLC,2026-01-06 18-12-34,False
-454,22,451.71,Shopping,"Cabrera, Vincent and Wilson",2026-04-12 21-09-42,False
-455,24,318.52,Bills,Paul and Sons,2026-04-07 03-05-36,True
-456,21,917.0,Bills,Byrd PLC,2026-02-19 05-08-23,False
-457,15,477.54,Shopping,Miller and Sons,2026-02-18 15-19-20,True
-458,51,323.85,Shopping,Sanders Ltd,2026-04-27 11-58-43,False
-459,52,520.27,Bills,Shah-Smith,2026-01-25 05-06-02,True
-460,44,428.46,Entertainment,"Miles, Hill and Simmons",2026-03-29 22-50-03,False
-461,17,258.93,Shopping,Sanchez Inc,2026-03-30 17-19-08,True
-462,72,923.03,Shopping,Holloway-Chase,2026-03-01 08-53-40,False
-463,13,191.7,Bills,"Myers, Cross and Andrews",2026-04-20 09-37-32,False
-464,38,111.3,Food,Vega and Sons,2026-04-11 06-31-32,False
-465,52,662.11,Shopping,Hernandez Group,2026-04-11 12-57-05,False
-466,48,722.95,Shopping,Schmidt Inc,2026-04-21 11-05-47,False
-467,33,798.03,Food,"Hansen, Wood and Castaneda",2026-03-12 02-34-44,True
-468,18,457.07,Food,Arnold PLC,2026-02-14 23-15-03,True
-469,52,957.9,Entertainment,Keller LLC,2026-02-02 22-30-04,False
-470,50,465.39,Shopping,Miller-Cunningham,2026-02-21 00-01-06,True
-471,27,110.79,Entertainment,Jimenez and Sons,2026-04-07 18-44-49,False
-472,51,14.85,Food,"Blackwell, Gibson and Smith",2026-05-26 05-44-36,True
-473,74,43.16,Bills,"Martinez, Morgan and Townsend",2026-02-08 13-02-53,True
-474,10,937.3,Entertainment,Cervantes-Richardson,2026-06-03 14-39-20,True
-475,90,479.11,Shopping,Andrews-Mcgrath,2026-01-09 17-43-10,False
-476,6,937.69,Food,"Williams, Mosley and Ward",2026-04-06 11-38-05,True
-477,60,153.61,Food,"Harrison, Mcintyre and Green",2026-04-25 17-11-46,True
-478,83,937.79,Shopping,Guerra-Allison,2026-03-31 22-04-54,False
-479,100,543.71,Entertainment,"Simpson, Weiss and Johnston",2026-02-19 13-00-07,True
-480,45,24.28,Food,Cruz Inc,2026-05-02 01-20-50,True
-481,45,775.87,Bills,Thomas Group,2026-01-20 09-44-41,False
-482,73,262.07,Entertainment,Simmons-Sullivan,2026-04-19 08-54-57,True
-483,62,457.61,Shopping,Lawrence Ltd,2026-04-12 21-11-56,False
-484,45,208.9,Bills,"Bauer, Williams and Stevenson",2026-05-15 21-30-02,True
-485,12,160.08,Shopping,"Lambert, Edwards and Reed",2026-03-05 07-36-14,False
-486,77,756.77,Entertainment,Malone-Haas,2026-05-11 11-57-39,True
-487,68,711.79,Shopping,Robinson-Aguilar,2026-06-12 23-11-55,False
-488,67,6.03,Shopping,"Melendez, Best and Rivera",2026-01-23 11-15-54,True
-489,24,936.25,Bills,Santos-Campbell,2026-05-19 01-23-09,False
-490,86,10.5,Shopping,"Hendricks, Thompson and Petty",2026-02-25 12-42-20,True
-491,75,257.11,Entertainment,Charles-Carson,2026-03-24 02-13-41,True
-492,92,553.31,Entertainment,Wood-Davis,2026-05-01 22-56-54,True
-493,14,581.2,Food,"Phillips, Weber and Ross",2026-02-23 02-13-06,False
-494,94,727.32,Bills,Brown-Webster,2026-05-01 01-58-24,False
-495,19,459.02,Bills,Davenport-Ortega,2026-03-11 17-40-54,True
-496,21,57.4,Bills,"Johnson, Kelly and Fleming",2026-05-06 12-47-48,True
-497,89,740.44,Shopping,"Murray, Forbes and Edwards",2026-05-03 05-09-00,True
-498,56,170.63,Shopping,"Thompson, Cisneros and Mathis",2026-01-09 21-29-04,False
-499,12,949.31,Entertainment,Gonzales-Collins,2026-06-08 03-31-25,True
-500,18,770.28,Bills,Merritt-Hanson,2026-05-29 00-40-24,False
-501,39,820.24,Bills,Jordan-Reyes,2026-02-14 12-25-03,False
-502,56,373.92,Shopping,Jensen PLC,2026-05-30 05-31-33,True
-503,85,839.34,Bills,Kline PLC,2026-02-12 12-13-06,True
-504,97,564.83,Bills,Meyer Inc,2026-06-15 01-39-32,True
-505,16,220.67,Entertainment,"Sweeney, Mora and Young",2026-05-24 19-26-57,False
-506,56,74.51,Entertainment,Obrien LLC,2026-04-02 14-27-47,False
-507,38,415.5,Food,"Tate, Walsh and Martinez",2026-02-20 22-04-44,True
-508,38,657.85,Bills,Roberson and Sons,2026-02-26 17-54-43,True
-509,92,718.44,Shopping,"Estes, Smith and Medina",2026-05-30 17-59-49,True
-510,88,448.31,Bills,Brown PLC,2026-02-15 21-59-09,True
-511,95,635.67,Entertainment,"Collins, Hanson and Vazquez",2026-03-20 07-54-16,False
-512,22,164.17,Entertainment,Bond-Miles,2026-05-14 11-38-18,False
-513,38,549.75,Food,Martin Inc,2026-03-21 00-38-26,False
-514,34,670.33,Entertainment,Gray Ltd,2026-05-06 01-19-37,False
-515,97,63.81,Bills,Sims-Williams,2026-02-22 01-41-34,True
-516,60,130.98,Shopping,Melendez LLC,2026-02-25 14-54-02,True
-517,32,846.42,Entertainment,Mcgee-Jones,2026-02-12 11-38-10,True
-518,23,410.13,Bills,Beck-Barron,2026-04-05 23-21-32,False
-519,68,806.94,Entertainment,Smith Group,2026-05-17 03-59-21,False
-520,65,791.09,Entertainment,"Gallagher, Potter and Dickson",2026-02-11 03-04-24,False
-521,39,943.59,Entertainment,Sandoval LLC,2026-01-28 05-12-00,False
-522,19,661.28,Bills,"Ortiz, Nguyen and Santiago",2026-03-06 21-57-26,True
-523,51,902.66,Food,Golden-Barber,2026-05-25 16-28-10,True
-524,62,263.33,Shopping,Schwartz-Mitchell,2026-03-06 07-52-59,True
-525,66,596.9,Entertainment,Grimes Inc,2026-02-18 00-15-23,True
-526,24,305.38,Shopping,"Hubbard, Lawson and Melendez",2026-06-06 12-20-01,False
-527,58,422.75,Food,Brown Group,2026-02-27 14-33-29,True
-528,37,979.39,Shopping,Harvey LLC,2026-04-27 13-07-02,True
-529,52,995.34,Shopping,Stewart-Nelson,2026-06-19 06-51-46,True
-530,31,659.82,Entertainment,Jones-Shaw,2026-05-07 07-52-01,True
-531,64,177.0,Bills,"Johnson, Jordan and Carpenter",2026-02-25 06-15-45,False
-532,12,735.92,Shopping,Wright-Webster,2026-06-10 06-54-27,True
-533,67,753.03,Bills,Neal PLC,2026-02-19 23-37-39,True
-534,57,8.24,Shopping,Calderon Group,2026-02-21 18-36-43,False
-535,1,716.2,Shopping,"Parks, Boyd and Smith",2026-04-03 10-58-38,True
-536,53,926.97,Food,"Owens, Vasquez and Chung",2026-02-24 05-48-28,False
-537,94,669.46,Entertainment,"Sims, Page and Torres",2026-02-23 15-18-31,True
-538,92,509.57,Food,Miller Group,2026-03-03 23-08-27,True
-539,88,393.94,Food,Cook-Lee,2026-05-12 23-19-38,True
-540,50,753.25,Bills,Davis-Harris,2026-01-31 15-09-19,False
-541,5,201.12,Bills,Clark and Sons,2026-03-30 08-26-00,True
-542,57,449.79,Entertainment,Edwards Group,2026-06-09 22-48-05,True
-543,100,765.65,Bills,Padilla-Collins,2026-05-17 13-48-47,False
-544,26,716.35,Bills,"Walton, Blackburn and Davis",2026-04-20 23-42-37,True
-545,85,2.27,Entertainment,Jackson Ltd,2026-01-11 05-14-38,True
-546,32,529.62,Food,"Gonzalez, Bishop and Mack",2026-04-05 05-26-03,True
-547,70,187.08,Shopping,Ibarra-Garcia,2026-05-28 15-22-27,False
-548,64,995.61,Food,Howard PLC,2026-06-17 20-35-42,False
-549,86,231.5,Bills,"Dunlap, West and Roth",2026-03-06 15-24-19,False
-550,14,117.3,Bills,"Dalton, Alexander and Garcia",2026-02-08 12-00-42,False
-551,35,285.6,Shopping,"Valenzuela, Turner and Russo",2026-03-01 11-08-52,False
-552,11,603.45,Food,"Garcia, Lindsey and Collier",2026-04-11 17-58-34,False
-553,71,554.07,Bills,Hamilton Ltd,2026-04-09 16-00-25,True
-554,24,742.7,Bills,Soto LLC,2026-05-03 01-27-38,True
-555,10,738.92,Food,"Todd, Brown and Scott",2026-03-06 21-51-59,True
-556,74,836.5,Bills,Valdez and Sons,2026-03-26 05-37-14,False
-557,63,446.25,Entertainment,Bond PLC,2026-06-13 10-05-11,False
-558,6,201.3,Bills,"Moore, Jones and Zimmerman",2026-03-28 16-57-27,False
-559,27,242.56,Shopping,Perez Group,2026-01-24 09-02-33,True
-560,63,668.82,Entertainment,Martinez and Sons,2026-01-02 04-02-56,True
-561,48,789.82,Bills,Phillips Ltd,2026-04-03 21-55-12,False
-562,50,986.85,Food,Wolfe Group,2026-04-23 20-24-48,False
-563,66,353.43,Shopping,Whitehead LLC,2026-01-16 21-30-26,False
-564,50,569.14,Bills,Parker-Bird,2026-01-05 14-47-45,False
-565,71,578.2,Entertainment,Pearson-Herman,2026-03-29 23-41-01,True
-566,17,81.48,Food,"Berger, Dennis and Johnson",2026-05-22 20-49-07,True
-567,20,623.85,Shopping,Keller Group,2026-05-10 10-10-15,True
-568,93,150.64,Food,Kim-Hardin,2026-06-03 19-00-43,True
-569,4,820.72,Entertainment,Miller-Hunt,2026-02-13 22-02-39,False
-570,36,262.78,Shopping,"Austin, Reyes and Carney",2026-04-07 11-51-44,True
-571,58,180.32,Bills,"Jones, Jordan and Frey",2026-05-08 08-04-14,False
-572,6,501.91,Bills,"Johnston, Daugherty and Richards",2026-03-24 08-30-16,False
-573,28,282.41,Shopping,Morgan and Sons,2026-01-15 01-55-59,False
-574,51,754.77,Entertainment,"Schroeder, Day and Mack",2026-01-11 06-02-06,True
-575,30,495.58,Entertainment,Castro and Sons,2026-05-29 11-23-40,True
-576,100,352.68,Bills,"Porter, Cummings and Colon",2026-05-20 05-09-35,True
-577,75,990.73,Food,"Carrillo, Vasquez and Smith",2026-05-07 01-16-53,True
-578,43,709.08,Shopping,Watson Ltd,2026-03-04 04-01-21,False
-579,53,225.15,Entertainment,Cox-Garcia,2026-01-13 03-23-00,False
-580,16,378.7,Shopping,"Powell, Johnson and Combs",2026-06-03 04-59-15,False
-581,6,374.72,Shopping,Callahan-Walls,2026-02-07 08-55-19,True
-582,75,456.11,Bills,Delgado and Sons,2026-01-27 14-19-31,True
-583,61,32.59,Entertainment,Hahn PLC,2026-05-22 22-19-20,False
-584,44,582.05,Food,Hahn-Cruz,2026-03-20 04-55-59,False
-585,94,519.47,Bills,"Schroeder, Hurley and Miller",2026-02-12 10-42-27,False
-586,44,844.2,Bills,Williams PLC,2026-01-17 07-07-13,True
-587,19,704.77,Shopping,"Macdonald, Simpson and West",2026-02-04 17-05-41,False
-588,42,54.03,Bills,Mooney-Washington,2026-01-26 05-28-32,False
-589,90,78.19,Food,"Hogan, Vasquez and Duarte",2026-01-25 13-41-09,False
-590,6,662.45,Food,Reed-Howell,2026-05-06 13-07-00,False
-591,64,394.94,Food,Johns LLC,2026-01-02 23-56-50,False
-592,58,380.38,Shopping,Davis Group,2026-05-03 15-25-29,False
-593,24,309.57,Food,Davis PLC,2026-01-23 10-31-50,False
-594,86,842.36,Food,Bright PLC,2026-06-06 20-02-16,True
-595,22,734.74,Bills,Cardenas PLC,2026-04-23 12-26-39,False
-596,53,56.61,Entertainment,Cox-Page,2026-03-27 07-33-10,False
-597,39,410.46,Food,"Smith, Morgan and Rodgers",2026-06-07 00-08-24,True
-598,63,50.75,Food,"Evans, Alvarez and Lewis",2026-03-14 10-00-27,False
-599,77,541.24,Bills,Rich Group,2026-03-09 12-48-45,False
-600,19,221.86,Entertainment,"Miller, Ward and Nelson",2026-05-24 07-55-58,False
-601,26,943.66,Food,Mclean PLC,2026-02-26 02-49-12,True
-602,93,379.15,Shopping,Taylor-Hansen,2026-03-03 02-53-51,True
-603,90,855.31,Entertainment,Kirby Group,2026-03-07 06-47-33,True
-604,28,922.25,Entertainment,"Scott, Rios and Chang",2026-05-09 01-22-12,False
-605,5,27.17,Food,Hawkins-Richards,2026-05-07 13-57-06,True
-606,37,42.41,Entertainment,Johnson-Graham,2026-02-09 18-01-35,False
-607,72,522.16,Bills,"Gallagher, Case and Herrera",2026-05-02 11-50-09,True
-608,53,186.02,Shopping,"Matthews, Ortega and Williams",2026-01-17 23-05-42,False
-609,35,347.67,Food,Rivera-Collins,2026-02-20 12-22-18,True
-610,81,313.8,Shopping,"Torres, Hernandez and Gutierrez",2026-01-01 21-31-44,True
-611,2,35.29,Shopping,"Collins, Powell and Crawford",2026-05-29 03-39-53,True
-612,42,722.73,Entertainment,Petersen PLC,2026-02-08 04-57-50,False
-613,9,848.31,Entertainment,"Ford, Daniels and Stokes",2026-04-04 15-40-16,False
-614,80,859.71,Bills,Morgan-Velazquez,2026-05-05 03-37-39,True
-615,76,809.63,Shopping,"Moore, Wilson and Norris",2026-05-06 22-52-46,True
-616,57,203.24,Bills,Carlson-Reynolds,2026-04-17 20-58-51,True
-617,37,901.83,Food,Atkins LLC,2026-04-06 22-18-47,True
-618,12,805.76,Food,"Meyer, Stokes and Galloway",2026-01-03 08-35-52,False
-619,74,886.47,Shopping,Lee-Haley,2026-03-11 12-45-57,True
-620,26,219.68,Bills,Blanchard-Smith,2026-01-25 20-00-06,True
-621,27,189.8,Bills,Logan-Wilkins,2026-01-04 20-05-40,False
-622,99,378.28,Shopping,Hernandez Group,2026-04-25 00-39-25,False
-623,13,223.77,Shopping,Peterson-Townsend,2026-02-19 02-32-04,False
-624,81,940.29,Food,Henry LLC,2026-02-23 18-45-29,False
-625,88,812.34,Shopping,Anderson and Sons,2026-05-02 08-31-19,True
-626,75,850.59,Food,Reid-Rogers,2026-02-02 23-53-23,False
-627,49,598.76,Bills,"Powers, Booker and Kirk",2026-03-22 06-52-14,False
-628,73,261.15,Entertainment,Chang-Wilson,2026-05-17 01-31-26,False
-629,70,470.35,Shopping,Peterson-Young,2026-01-04 20-51-59,True
-630,87,597.4,Food,Lynn LLC,2026-01-12 09-33-32,True
-631,48,422.55,Shopping,Simmons-Hicks,2026-06-01 20-39-31,False
-632,78,521.32,Shopping,Arnold-Owens,2026-01-01 21-00-36,False
-633,22,998.13,Food,Simon and Sons,2026-05-19 23-08-03,True
-634,29,202.83,Food,Delgado-Romero,2026-03-20 04-33-56,False
-635,65,738.94,Bills,Baker-Thomas,2026-05-21 21-57-36,False
-636,89,389.61,Entertainment,Powell Inc,2026-04-18 21-11-51,True
-637,32,534.34,Bills,Mann-Cuevas,2026-05-19 03-40-11,False
-638,77,481.94,Shopping,Oliver LLC,2026-06-16 23-48-55,True
-639,43,730.47,Entertainment,Pearson Group,2026-06-01 04-04-57,True
-640,36,701.38,Entertainment,Mcclain-Shaw,2026-03-12 11-27-14,True
-641,50,955.85,Food,Brady and Sons,2026-01-31 00-01-29,True
-642,58,207.79,Food,Craig LLC,2026-05-28 21-48-00,False
-643,96,390.08,Shopping,Johnson and Sons,2026-02-23 06-52-02,True
-644,10,595.29,Food,Owens Ltd,2026-02-14 07-03-30,True
-645,3,273.3,Entertainment,"Williams, Morris and Jackson",2026-04-19 00-55-31,False
-646,71,356.65,Food,Carr and Sons,2026-01-25 00-44-32,False
-647,56,436.59,Bills,"Boyer, Barrera and Anderson",2026-06-06 23-17-04,False
-648,94,997.1,Food,Jones PLC,2026-04-09 12-08-11,True
-649,63,930.68,Entertainment,Spencer-Price,2026-02-28 03-56-31,True
-650,47,499.73,Entertainment,Joyce-Coleman,2026-04-06 03-02-09,True
-651,18,94.61,Food,Moore-Taylor,2026-03-10 15-10-21,True
-652,83,291.92,Bills,Lopez-Morgan,2026-01-31 14-43-53,True
-653,73,559.14,Entertainment,Chase PLC,2026-03-13 11-02-24,True
-654,10,913.49,Food,Stein-Mckinney,2026-01-16 22-58-22,False
-655,73,864.59,Entertainment,Lopez-Morse,2026-02-14 02-07-56,False
-656,87,181.82,Food,Morales-Wise,2026-02-25 17-50-41,True
-657,55,45.21,Bills,Patel-Taylor,2026-03-10 16-21-27,False
-658,7,259.47,Food,"Fernandez, Hall and King",2026-05-01 21-18-11,True
-659,62,556.88,Food,Palmer LLC,2026-01-27 10-18-12,True
-660,65,851.46,Food,Chan PLC,2026-05-26 18-12-09,True
-661,99,79.54,Entertainment,Daniels-Walker,2026-01-11 11-46-29,True
-662,29,495.31,Bills,Strickland Inc,2026-04-10 18-18-48,False
-663,95,176.88,Food,Adams Group,2026-02-26 11-07-46,False
-664,18,560.76,Entertainment,Wiley PLC,2026-01-13 19-23-51,True
-665,58,366.86,Entertainment,"Robinson, Lawrence and Fields",2026-03-24 02-26-29,False
-666,23,992.68,Shopping,Perez Inc,2026-04-10 20-31-55,False
-667,27,617.06,Bills,Shaw-Bailey,2026-02-04 12-06-13,True
-668,94,405.1,Entertainment,Wilson PLC,2026-01-25 20-15-38,True
-669,42,778.57,Bills,Santana-Martin,2026-04-01 05-34-19,True
-670,51,585.61,Bills,House PLC,2026-05-27 03-26-12,True
-671,49,500.71,Food,"Hill, Reese and Williamson",2026-05-16 09-50-48,True
-672,39,545.65,Shopping,Bell PLC,2026-05-22 19-24-29,False
-673,62,292.06,Entertainment,"Murphy, Rios and Baker",2026-03-19 10-40-53,False
-674,99,879.8,Entertainment,Thomas-Browning,2026-04-16 05-47-40,True
-675,18,416.66,Bills,Garcia Inc,2026-04-15 00-17-21,False
-676,71,865.19,Bills,Oliver-Robertson,2026-06-05 00-34-38,True
-677,84,999.65,Shopping,Alvarez-Sanchez,2026-04-26 19-09-22,True
-678,4,734.85,Bills,Dodson-Johnson,2026-01-11 03-54-15,True
-679,90,274.15,Bills,Christian-Hunter,2026-04-17 13-07-22,True
-680,44,900.93,Food,Young-Parker,2026-02-07 17-49-37,True
-681,62,239.74,Food,Brown Group,2026-04-14 17-22-58,True
-682,12,244.93,Food,Matthews LLC,2026-05-15 00-44-26,True
-683,25,75.99,Food,"Phillips, Watts and Jones",2026-02-10 14-55-14,False
-684,59,437.8,Bills,Smith and Sons,2026-04-15 05-25-05,False
-685,68,636.64,Shopping,Ramsey-Morris,2026-04-29 06-58-16,True
-686,80,541.28,Shopping,"Smith, Rodriguez and Mendez",2026-05-12 17-34-52,False
-687,84,574.78,Shopping,May LLC,2026-05-06 11-49-16,True
-688,94,510.24,Food,"Riddle, Powell and Carr",2026-03-14 20-07-18,False
-689,55,404.1,Shopping,Miller and Sons,2026-03-30 23-58-31,False
-690,52,916.96,Shopping,Adams LLC,2026-01-06 19-11-00,False
-691,81,252.4,Bills,"Cole, Quinn and Schneider",2026-06-14 07-11-13,False
-692,89,798.73,Entertainment,"Clark, Nguyen and Rodriguez",2026-03-25 20-27-37,False
-693,100,499.35,Food,Huerta and Sons,2026-01-10 07-24-57,False
-694,29,276.81,Shopping,"Weaver, Sellers and Adkins",2026-05-13 15-58-29,False
-695,92,533.47,Entertainment,Cole Group,2026-02-22 06-35-19,False
-696,8,937.04,Bills,"Clark, Conner and White",2026-03-14 05-36-16,False
-697,89,265.6,Shopping,"Brown, Potter and Gonzalez",2026-04-30 06-31-54,False
-698,42,688.69,Shopping,Byrd-Mccarthy,2026-01-12 04-39-52,True
-699,86,843.35,Entertainment,Thompson-Wagner,2026-03-14 19-19-19,True
-700,86,418.97,Entertainment,Vance-Cooley,2026-06-01 22-11-17,True
-701,4,75.7,Shopping,Ferguson-King,2026-02-21 01-56-44,True
-702,63,873.74,Bills,"Mata, Harper and Johnson",2026-02-11 15-53-59,True
-703,28,161.3,Bills,"Conley, Morales and Smith",2026-02-16 19-03-14,False
-704,29,968.75,Entertainment,Harris-Harris,2026-02-08 01-11-02,True
-705,95,143.25,Bills,"Pham, Carpenter and Crawford",2026-02-22 10-23-30,False
-706,67,833.31,Shopping,"Ward, Aguilar and Haas",2026-04-23 14-35-31,True
-707,53,445.7,Food,Meyer LLC,2026-03-15 06-17-43,False
-708,22,541.27,Shopping,Maldonado PLC,2026-02-13 07-38-06,True
-709,86,660.94,Entertainment,"Martin, Ross and Barber",2026-04-08 23-03-09,False
-710,70,628.24,Food,"Day, Lee and Hernandez",2026-04-06 08-57-53,True
-711,75,637.91,Bills,Hudson-Brown,2026-06-07 00-32-22,True
-712,65,56.86,Entertainment,Mercer LLC,2026-06-07 20-27-18,False
-713,8,219.09,Food,Long LLC,2026-02-05 14-59-54,False
-714,72,101.12,Entertainment,Turner-Cruz,2026-03-10 17-22-13,True
-715,77,246.33,Food,Gibson Ltd,2026-03-22 01-43-59,True
-716,67,913.66,Entertainment,Jackson PLC,2026-03-23 20-37-31,True
-717,49,44.7,Food,"Stewart, Roth and Gallagher",2026-02-06 11-59-01,False
-718,6,64.58,Food,Castillo-George,2026-06-18 15-54-46,True
-719,77,909.66,Bills,"Davis, Brown and Huang",2026-03-31 09-10-22,True
-720,36,686.83,Bills,Copeland Ltd,2026-01-13 15-28-33,True
-721,42,624.85,Shopping,Schmidt-Trujillo,2026-06-14 21-24-46,False
-722,25,96.18,Food,Moody-Marsh,2026-03-18 23-18-14,True
-723,100,78.23,Food,Johnson-Russo,2026-05-08 18-23-40,False
-724,37,886.76,Shopping,Decker-Ramirez,2026-01-14 01-13-52,True
-725,34,929.66,Shopping,Johnson LLC,2026-05-10 06-04-05,True
-726,72,408.97,Entertainment,Cooke-Adams,2026-04-18 13-37-53,False
-727,56,326.07,Bills,Martinez Ltd,2026-04-21 14-46-13,True
-728,76,948.79,Food,"Campbell, Weaver and Townsend",2026-04-04 07-39-56,True
-729,51,928.56,Entertainment,Cole-Duncan,2026-06-19 07-09-58,True
-730,61,960.55,Bills,"Harvey, Stephenson and Wheeler",2026-02-25 16-34-24,True
-731,37,710.29,Shopping,Ramos Group,2026-02-10 22-25-36,False
-732,35,769.3,Entertainment,Cline-Patterson,2026-01-05 13-24-30,False
-733,41,777.81,Food,Davis-Warren,2026-05-07 06-32-46,False
-734,96,881.01,Bills,"Scott, Ward and Hickman",2026-03-07 17-12-51,False
-735,56,262.45,Food,"Ramirez, Hutchinson and Thomas",2026-05-22 00-02-04,False
-736,30,564.57,Food,"Chambers, Acevedo and Kelly",2026-01-26 06-57-40,False
-737,55,236.48,Entertainment,"Eaton, Lucas and Powell",2026-01-09 02-14-53,False
-738,6,930.31,Shopping,"Aguilar, Sandoval and Williams",2026-03-26 23-27-39,True
-739,3,166.34,Shopping,"Espinoza, Garrett and Pruitt",2026-03-08 15-53-20,False
-740,9,471.48,Bills,Larson and Sons,2026-06-08 23-39-27,False
-741,5,579.95,Entertainment,Bennett-Knapp,2026-03-06 05-52-28,True
-742,40,580.46,Bills,Bautista-Williams,2026-04-07 00-54-17,False
-743,5,40.03,Shopping,Levy-White,2026-05-07 14-45-07,False
-744,36,122.19,Entertainment,"Nichols, Sherman and Hawkins",2026-02-22 11-20-56,True
-745,22,280.76,Food,"Morgan, Mason and Torres",2026-01-06 12-55-35,False
-746,8,998.35,Bills,Williamson-Lang,2026-01-22 11-05-05,True
-747,23,842.64,Bills,"Summers, Hall and Wright",2026-01-09 12-21-18,True
-748,37,352.57,Bills,Bush PLC,2026-01-28 03-23-09,True
-749,98,504.06,Bills,Contreras LLC,2026-02-02 20-13-10,False
-750,58,275.52,Food,"Gillespie, Wilson and Wagner",2026-01-20 02-10-41,True
-751,6,377.16,Shopping,"Jones, Brown and White",2026-06-08 02-33-48,True
-752,44,243.11,Shopping,Richards Group,2026-04-18 10-26-13,True
-753,69,561.42,Shopping,"Warren, Ellis and Andrade",2026-06-03 13-04-00,False
-754,44,522.37,Entertainment,Buchanan Ltd,2026-01-16 04-39-01,True
-755,79,914.99,Food,"Brown, Meyer and Sandoval",2026-04-05 03-09-38,False
-756,49,541.25,Bills,"Miller, Moon and Ray",2026-02-18 01-57-45,False
-757,54,442.52,Food,Lopez-Hernandez,2026-01-25 13-36-22,False
-758,23,896.43,Food,Reynolds-Wilson,2026-02-23 15-52-06,True
-759,98,387.6,Entertainment,Butler Ltd,2026-01-23 13-10-22,True
-760,96,234.04,Entertainment,"Wise, Greene and Nguyen",2026-02-24 21-19-19,False
-761,50,958.78,Shopping,"Brown, Washington and Campbell",2026-04-07 07-05-36,False
-762,28,802.34,Food,Brown-Mullins,2026-04-10 19-15-37,False
-763,29,889.0,Food,Luna-Burton,2026-04-17 05-22-15,False
-764,47,327.19,Bills,Watkins-Davis,2026-06-13 21-19-35,False
-765,76,854.39,Shopping,Gray-Miller,2026-04-10 02-50-04,False
-766,21,689.57,Shopping,"Jackson, Wilson and Davis",2026-04-22 06-04-53,True
-767,22,567.61,Shopping,"Ellis, Gonzales and Castro",2026-03-12 23-03-00,True
-768,93,653.23,Shopping,Mitchell-Rodriguez,2026-01-15 21-01-56,False
-769,29,415.16,Shopping,Davis-Tate,2026-01-17 02-31-59,True
-770,10,881.41,Shopping,Sanchez Ltd,2026-06-01 23-36-36,True
-771,41,301.38,Shopping,"Kline, Reid and Park",2026-02-07 07-34-10,False
-772,48,293.08,Shopping,Green-Garrett,2026-05-23 00-30-51,True
-773,82,342.16,Entertainment,Chase Ltd,2026-05-01 00-15-44,True
-774,19,397.36,Entertainment,Diaz LLC,2026-03-26 02-47-09,True
-775,4,409.99,Food,Clayton Ltd,2026-01-05 08-13-40,True
-776,21,253.18,Bills,Garrett-Sharp,2026-02-11 22-00-03,True
-777,11,176.5,Entertainment,White PLC,2026-04-25 15-20-10,False
-778,13,186.82,Bills,"Benjamin, Woodward and Oconnell",2026-06-01 01-50-06,False
-779,37,167.81,Shopping,"Mooney, Smith and Perez",2026-02-13 03-34-36,False
-780,66,343.1,Shopping,Clark-Flowers,2026-05-22 01-36-56,True
-781,29,859.65,Food,Miller-Young,2026-02-11 14-11-16,False
-782,87,150.35,Shopping,"Rose, Williams and Knox",2026-01-04 02-13-08,True
-783,72,582.1,Shopping,"Smith, Griffin and Lewis",2026-01-18 12-09-19,False
-784,57,231.59,Bills,Rodriguez-Santiago,2026-04-06 12-50-53,False
-785,27,890.36,Food,Bush-Jacobs,2026-01-29 22-16-27,True
-786,35,321.29,Food,Robinson-Francis,2026-03-13 06-04-31,True
-787,17,303.21,Bills,Martinez-Patel,2026-01-03 14-14-57,False
-788,60,872.45,Shopping,Waller-Barr,2026-01-13 14-08-41,False
-789,17,448.57,Food,Martinez PLC,2026-06-08 20-32-07,False
-790,81,418.9,Shopping,Ward-Hawkins,2026-03-22 13-23-44,True
-791,31,283.86,Entertainment,Lee-Walton,2026-02-05 18-17-56,False
-792,11,53.94,Bills,Wells-Phillips,2026-06-07 06-00-45,False
-793,43,475.23,Bills,"Wilson, James and Hamilton",2026-05-18 03-56-25,False
-794,30,728.05,Entertainment,Hudson Group,2026-05-29 06-37-35,False
-795,25,674.5,Entertainment,Kirby-Simpson,2026-02-25 03-29-44,False
-796,72,273.46,Shopping,Mendez-Bowman,2026-02-05 23-42-03,False
-797,24,116.28,Shopping,Barber-King,2026-05-01 13-16-23,False
-798,82,94.34,Food,Anderson-Phillips,2026-04-04 14-50-52,False
-799,69,580.7,Entertainment,Jones-Jimenez,2026-05-25 01-46-38,False
-800,41,680.4,Shopping,"Horton, Garcia and Yoder",2026-02-10 23-53-18,True
-801,59,558.22,Entertainment,"Wallace, Moss and Hill",2026-01-21 06-18-10,True
-802,81,238.6,Entertainment,Collins-Patterson,2026-03-22 17-57-09,False
-803,44,286.68,Food,Combs-Ryan,2026-04-03 20-47-53,False
-804,95,618.27,Food,Pham-Padilla,2026-04-27 11-08-56,False
-805,29,449.73,Food,Miller-Bradley,2026-03-30 20-40-14,False
-806,18,915.99,Bills,Chandler-Dean,2026-03-07 07-43-30,True
-807,77,364.24,Bills,Stuart and Sons,2026-03-27 07-46-04,False
-808,32,164.35,Shopping,"Armstrong, Wade and Hubbard",2026-03-10 09-09-17,True
-809,29,877.72,Entertainment,Howard LLC,2026-02-08 08-22-19,False
-810,39,120.56,Food,"Edwards, Gould and Gomez",2026-04-10 20-56-59,False
-811,69,153.97,Bills,Brooks-Myers,2026-03-26 17-10-23,True
-812,65,236.97,Food,"Bridges, Jones and Thompson",2026-03-20 13-32-04,True
-813,37,912.97,Bills,"Lee, Reynolds and Woodward",2026-02-27 13-20-13,True
-814,46,510.48,Entertainment,Livingston-Francis,2026-02-25 09-18-29,False
-815,59,184.09,Bills,Colon-Turner,2026-01-02 22-52-08,False
-816,87,551.08,Bills,"Paul, Mcintosh and Stokes",2026-05-19 23-19-20,True
-817,58,424.14,Food,Gonzalez-Benjamin,2026-05-15 11-58-31,False
-818,33,289.13,Food,Castillo Ltd,2026-02-13 10-06-17,True
-819,27,225.45,Entertainment,Williams-Murphy,2026-03-15 02-55-46,False
-820,73,238.76,Food,Rhodes-Cunningham,2026-05-14 01-00-43,True
-821,23,809.51,Food,Peters and Sons,2026-01-17 07-38-47,False
-822,76,488.5,Food,Krueger-Hunter,2026-01-06 20-51-26,True
-823,84,528.98,Shopping,Reyes-Velez,2026-05-16 02-27-28,False
-824,41,850.84,Shopping,Brown Inc,2026-01-08 16-58-43,False
-825,35,243.58,Entertainment,Long LLC,2026-03-18 13-11-23,True
-826,66,533.78,Food,Johnson-Schmidt,2026-01-27 06-15-02,False
-827,67,996.96,Food,"Meyers, Berg and Nicholson",2026-05-23 08-48-31,False
-828,15,840.31,Bills,"Cobb, Carlson and Roberts",2026-02-17 08-12-55,False
-829,49,607.32,Food,Hunt-Jordan,2026-01-13 01-55-45,False
-830,88,231.04,Shopping,"Delacruz, Ortega and Russell",2026-06-08 13-48-51,True
-831,29,15.62,Entertainment,"Davis, Valencia and Mendez",2026-05-28 21-24-00,True
-832,71,288.96,Bills,"Boone, Patel and Frazier",2026-05-01 05-20-00,False
-833,4,71.71,Food,Watts PLC,2026-03-04 13-53-07,True
-834,49,263.02,Entertainment,Fuller and Sons,2026-03-03 09-05-35,True
-835,66,981.31,Food,Williams-Hamilton,2026-03-21 22-49-01,False
-836,16,182.81,Food,Holland Inc,2026-03-24 18-00-39,False
-837,39,287.87,Shopping,"Allen, Mills and Bates",2026-01-26 05-27-07,False
-838,8,433.5,Entertainment,Brown Ltd,2026-02-18 02-32-57,False
-839,72,126.01,Food,"Howard, Guerra and Johnson",2026-02-10 08-35-52,True
-840,22,356.61,Shopping,Carson-Foster,2026-03-30 17-39-37,False
-841,15,758.29,Bills,"Smith, Brown and Fowler",2026-06-07 16-46-32,False
-842,55,599.89,Shopping,"Payne, Yang and Quinn",2026-03-07 21-44-47,True
-843,95,371.74,Bills,Ellis LLC,2026-04-07 09-12-54,True
-844,1,897.7,Bills,Crawford-Reed,2026-06-02 10-57-07,True
-845,20,383.92,Entertainment,"Moore, Morgan and Guzman",2026-05-13 05-31-19,True
-846,7,636.71,Bills,Daniel Ltd,2026-05-28 10-50-58,True
-847,73,952.97,Entertainment,Levine Ltd,2026-05-19 00-33-37,True
-848,36,876.1,Food,Reynolds Inc,2026-05-15 16-39-05,True
-849,57,606.01,Shopping,"Summers, Stewart and Travis",2026-02-11 03-32-37,True
-850,43,588.49,Shopping,Olson-Carrillo,2026-01-20 02-33-18,True
-851,35,285.34,Bills,Marquez LLC,2026-06-17 00-45-00,True
-852,41,725.6,Shopping,Meyers and Sons,2026-01-11 20-00-19,False
-853,82,149.69,Food,Bradley Group,2026-06-19 08-53-54,False
-854,19,440.13,Shopping,"Ali, Morales and Hicks",2026-03-07 19-49-20,False
-855,77,988.6,Shopping,"Flowers, Oconnor and Tucker",2026-03-18 09-20-02,True
-856,47,590.26,Food,"Wells, Wilson and Hammond",2026-03-23 12-24-20,False
-857,33,425.97,Food,Garcia Inc,2026-01-07 18-08-39,False
-858,47,981.75,Food,Case PLC,2026-04-19 07-45-47,False
-859,76,118.71,Entertainment,"Weaver, Carter and Reynolds",2026-06-02 03-40-11,False
-860,100,649.84,Shopping,Arnold and Sons,2026-06-09 08-50-17,True
-861,8,446.52,Bills,"Guerrero, Martin and Jones",2026-06-05 14-41-21,True
-862,33,351.15,Bills,Zamora and Sons,2026-05-09 23-17-14,True
-863,53,534.72,Food,Wilkinson-Carroll,2026-04-21 06-54-22,True
-864,26,654.09,Shopping,Mills Ltd,2026-01-13 07-20-56,False
-865,10,150.4,Bills,Brown Ltd,2026-06-15 12-13-37,True
-866,91,835.67,Entertainment,Schmidt-Williams,2026-03-21 11-52-04,False
-867,81,597.37,Bills,"Martinez, Sanchez and Morgan",2026-05-28 02-48-55,True
-868,75,811.91,Shopping,Brandt-Pham,2026-04-30 17-59-00,True
-869,53,265.81,Entertainment,Guerra-Evans,2026-02-15 04-48-33,True
-870,18,240.56,Shopping,"Haney, Solis and Mcbride",2026-03-17 15-10-19,True
-871,44,967.38,Bills,Ali-Francis,2026-01-16 23-14-09,False
-872,57,97.17,Food,Smith-Soto,2026-01-29 08-05-55,False
-873,31,383.0,Entertainment,Moreno Group,2026-04-01 13-23-27,True
-874,99,682.13,Shopping,Warren-Mccarthy,2026-06-12 08-50-13,True
-875,21,846.44,Food,Brown-Robinson,2026-01-23 08-53-24,False
-876,93,493.91,Food,"Peters, Yang and Butler",2026-03-19 08-53-56,True
-877,11,33.59,Bills,Phillips Group,2026-05-09 20-56-02,True
-878,2,464.15,Shopping,"Butler, Walker and Mccarty",2026-04-08 06-25-29,False
-879,15,339.86,Shopping,"Orozco, Davis and Lindsey",2026-04-24 06-46-20,False
-880,9,5.81,Entertainment,Miller-Cardenas,2026-01-14 00-20-51,False
-881,68,605.16,Food,"Bennett, Stephens and Fisher",2026-01-08 02-48-10,True
-882,54,982.35,Entertainment,Strong-Crawford,2026-02-07 20-38-03,True
-883,25,505.12,Bills,Rowland-Dorsey,2026-04-27 12-13-00,False
-884,11,804.29,Bills,"Carter, Maynard and Mcbride",2026-03-28 15-56-10,True
-885,94,277.07,Entertainment,Franklin-Baker,2026-03-31 10-13-30,False
-886,42,662.53,Shopping,"Garcia, Kirby and Monroe",2026-03-17 06-57-35,False
-887,5,900.18,Shopping,Calderon LLC,2026-02-05 10-54-47,False
-888,5,226.12,Bills,"Kennedy, Mitchell and Smith",2026-02-05 17-13-55,False
-889,81,57.86,Bills,Carroll-Obrien,2026-02-05 05-04-28,False
-890,44,970.49,Entertainment,Long LLC,2026-01-15 21-04-12,True
-891,96,970.46,Food,"Gardner, Anderson and Humphrey",2026-01-29 05-29-21,False
-892,92,990.29,Food,"Fowler, Gonzalez and Santiago",2026-03-31 21-55-38,True
-893,38,149.16,Bills,"Miller, Bates and Ford",2026-05-06 03-44-53,True
-894,75,510.0,Food,Mcmillan Ltd,2026-06-01 09-34-11,True
-895,56,325.62,Entertainment,"Ortiz, Moore and Powell",2026-06-09 18-59-49,False
-896,92,834.52,Food,Day-Ferguson,2026-01-21 14-46-09,False
-897,18,405.27,Entertainment,Miles-Hernandez,2026-01-29 07-05-05,False
-898,59,513.18,Entertainment,"Hansen, Cole and Johnson",2026-06-06 05-59-46,False
-899,62,525.31,Shopping,French Ltd,2026-02-15 22-28-32,False
-900,7,585.87,Shopping,James and Sons,2026-05-03 21-21-26,True
-901,21,757.65,Entertainment,"Aguilar, Patrick and Jenkins",2026-02-05 13-00-07,True
-902,48,679.05,Entertainment,"Watson, Thomas and Nguyen",2026-05-05 16-41-46,True
-903,82,547.7,Bills,"Anderson, Rogers and Johns",2026-05-09 17-24-58,False
-904,68,373.13,Food,Collins PLC,2026-04-01 06-42-13,False
-905,57,970.03,Bills,"Jones, Whitaker and Brown",2026-03-04 08-11-08,True
-906,38,949.11,Food,"Burke, Padilla and Harmon",2026-02-22 09-46-16,False
-907,4,330.91,Food,Tran PLC,2026-05-18 23-01-56,True
-908,57,654.46,Entertainment,"Levy, Miller and Johnson",2026-06-13 08-15-04,False
-909,88,250.28,Bills,Cox-Wallace,2026-01-16 03-39-59,True
-910,85,230.31,Shopping,Sullivan and Sons,2026-05-08 02-08-42,True
-911,38,727.82,Bills,"Howard, Parker and Reyes",2026-02-10 02-55-15,False
-912,78,30.93,Food,Young-Johnson,2026-03-03 03-11-22,False
-913,73,512.98,Food,Edwards Group,2026-01-22 10-48-44,True
-914,22,525.69,Shopping,Cain LLC,2026-04-16 13-17-18,False
-915,85,41.71,Bills,Morris LLC,2026-01-12 21-55-51,False
-916,100,107.99,Food,Porter Ltd,2026-01-12 05-17-48,True
-917,73,776.51,Entertainment,"Murphy, Garcia and Cruz",2026-03-11 09-27-39,True
-918,81,755.66,Bills,"Cain, Golden and Barnes",2026-02-22 22-08-07,True
-919,29,846.99,Entertainment,Norris LLC,2026-01-04 18-13-26,False
-920,31,813.55,Entertainment,"Hill, Moody and Ali",2026-02-22 16-40-35,False
-921,60,926.59,Shopping,"Hernandez, Nunez and Harris",2026-06-05 20-02-05,True
-922,55,718.74,Food,Walters-Rowe,2026-06-14 03-01-46,True
-923,15,573.3,Shopping,"Cox, Johnson and Hall",2026-06-12 00-00-57,True
-924,99,962.35,Food,Braun-Hunt,2026-02-23 00-44-52,False
-925,15,334.31,Bills,Miller-Tyler,2026-02-18 16-06-20,False
-926,30,805.59,Bills,Taylor-Carter,2026-01-24 12-38-10,True
-927,49,32.31,Shopping,Adams Ltd,2026-06-16 14-49-47,False
-928,82,718.14,Food,Robinson-Payne,2026-01-31 06-25-38,True
-929,78,967.24,Shopping,Thompson Group,2026-02-22 07-30-09,False
-930,55,894.34,Bills,Ross-Smith,2026-06-17 16-00-07,True
-931,65,861.27,Shopping,Barrett-Marshall,2026-01-06 18-32-38,True
-932,48,74.57,Bills,Buck-Hogan,2026-03-29 03-07-34,False
-933,69,297.24,Entertainment,Wood Ltd,2026-01-27 17-18-13,False
-934,61,21.09,Entertainment,"Le, Jones and Blake",2026-05-09 22-30-08,False
-935,52,627.12,Shopping,"Rogers, Freeman and Wright",2026-04-17 23-43-17,False
-936,14,93.55,Shopping,James LLC,2026-02-05 05-47-50,False
-937,31,32.88,Entertainment,Hernandez-Moses,2026-05-28 06-25-30,True
-938,4,720.72,Food,"Cook, Beck and Ray",2026-06-12 04-44-25,False
-939,11,352.9,Bills,"Luna, Miller and Kelly",2026-06-06 19-16-24,False
-940,87,139.55,Food,Spencer and Sons,2026-01-27 02-06-36,True
-941,35,820.12,Entertainment,"Jones, Zhang and Bernard",2026-01-02 22-59-17,True
-942,86,410.08,Bills,Thomas Ltd,2026-05-22 18-41-06,True
-943,65,166.86,Bills,Goodwin-Aguilar,2026-06-03 07-13-40,True
-944,90,580.28,Bills,Berger-Copeland,2026-03-20 19-08-37,False
-945,68,539.96,Bills,Owens-Long,2026-01-24 09-08-22,False
-946,55,978.32,Shopping,Silva-Steele,2026-04-26 04-41-26,False
-947,53,643.61,Food,Mosley PLC,2026-01-19 22-19-34,True
-948,11,304.62,Food,Powers PLC,2026-02-02 16-31-08,True
-949,73,487.33,Entertainment,Wells-Robinson,2026-06-09 15-37-33,True
-950,19,609.91,Food,Daniels Group,2026-01-27 23-10-11,True
-951,90,97.32,Shopping,Owens and Sons,2026-01-27 13-28-53,False
-952,77,390.14,Bills,"Hernandez, Price and Soto",2026-02-13 17-46-33,False
-953,3,720.83,Entertainment,Villarreal-Bernard,2026-05-30 06-39-53,True
-954,16,118.51,Entertainment,Young-Sutton,2026-01-24 02-16-01,False
-955,50,684.67,Bills,Edwards-Nixon,2026-01-18 04-48-30,False
-956,97,119.99,Bills,Hayes LLC,2026-04-10 14-56-19,False
-957,65,288.47,Food,"Robinson, Eaton and Ho",2026-05-30 09-50-16,False
-958,38,304.2,Bills,"Moore, Henry and Boyer",2026-03-16 21-39-44,True
-959,21,224.05,Entertainment,Berry-Bryan,2026-01-22 20-19-36,False
-960,72,480.61,Food,Davis-Mejia,2026-03-15 13-00-43,True
-961,71,430.2,Shopping,"Ellis, Baker and Carson",2026-05-14 17-34-52,False
-962,9,277.69,Shopping,"Burnett, Miller and Howell",2026-05-02 16-17-53,True
-963,86,71.93,Bills,"Jones, Henry and Watson",2026-01-18 01-14-44,True
-964,61,997.9,Shopping,White Inc,2026-01-25 04-28-00,False
-965,91,204.31,Bills,Miller-Combs,2026-06-11 21-50-04,True
-966,61,948.46,Entertainment,"Abbott, Steele and Lawson",2026-02-19 04-28-15,True
-967,65,722.86,Entertainment,Cox-Mata,2026-01-11 22-32-44,False
-968,66,993.22,Food,Knapp Ltd,2026-03-24 23-28-42,False
-969,44,864.52,Food,"Jacobs, Mercado and Blackwell",2026-03-08 08-37-39,False
-970,32,380.32,Food,Ward-Smith,2026-05-10 04-37-41,True
-971,9,471.51,Shopping,Baker-Yu,2026-05-12 02-03-32,True
-972,93,261.67,Shopping,Nelson Inc,2026-03-10 12-07-17,True
-973,15,82.05,Food,Cooper Inc,2026-06-04 11-07-33,True
-974,73,559.94,Entertainment,Gray-Smith,2026-05-10 00-12-24,True
-975,27,560.53,Shopping,"Andrews, Garcia and Guzman",2026-02-20 05-13-10,False
-976,40,886.1,Entertainment,"Mitchell, Smith and Brown",2026-05-28 04-20-00,False
-977,49,603.34,Shopping,"Cowan, Peterson and Perkins",2026-03-23 16-43-33,False
-978,63,976.14,Bills,"Rogers, Nichols and Hayes",2026-01-30 14-11-04,True
-979,84,952.84,Shopping,"Fuller, Walker and Lawson",2026-04-21 08-46-22,False
-980,26,711.14,Shopping,Nelson-Silva,2026-05-06 00-29-44,False
-981,95,563.44,Entertainment,Bowman PLC,2026-05-17 01-07-48,False
-982,72,488.78,Shopping,"Miller, Brown and Acevedo",2026-04-14 03-13-55,False
-983,58,562.79,Entertainment,"Turner, James and Johnson",2026-01-02 11-15-18,False
-984,90,595.88,Entertainment,"Vincent, Livingston and Kemp",2026-04-26 05-24-42,True
-985,48,794.54,Shopping,Kelly-Underwood,2026-03-23 01-53-20,True
-986,25,202.46,Entertainment,Ferguson-Shelton,2026-01-06 10-30-02,True
-987,60,363.06,Entertainment,Wright Group,2026-03-02 23-21-37,True
-988,7,66.9,Entertainment,Dixon-Horton,2026-04-04 02-18-15,False
-989,17,650.7,Shopping,Hunter-Cole,2026-05-25 18-44-20,True
-990,56,149.93,Entertainment,Doyle Ltd,2026-05-08 16-53-31,True
-991,56,958.03,Shopping,Bailey-Wolfe,2026-05-24 06-22-00,False
-992,21,308.79,Bills,Herrera-Owen,2026-05-03 16-10-21,True
-993,97,615.88,Bills,Carter-Warner,2026-03-22 04-49-24,False
-994,29,333.86,Entertainment,Webster Ltd,2026-03-13 20-47-40,False
-995,87,197.18,Food,"Lynn, Weiss and Ferguson",2026-02-18 06-15-46,False
-996,60,818.68,Bills,"Reyes, Valenzuela and Craig",2026-02-07 15-02-23,False
-997,5,764.83,Bills,Gallegos Inc,2026-04-17 17-21-54,False
-998,86,239.52,Shopping,"Cervantes, Howard and Robertson",2026-05-07 22-13-00,False
-999,79,79.3,Food,Ferguson LLC,2026-03-06 21-51-08,True
-1000,89,388.02,Bills,"Garcia, Hunter and Moore",2026-03-07 05-48-38,False
+transaction_id,user_id,amount,category,merchant,timestamp,is_fraud
+1,43,384.75,Entertainment,Green-Lang,2026-03-31 08:10:06,True
+2,22,987.75,Shopping,Moses-Hill,2026-04-18 23:55:56,False
+3,36,446.86,Food,Jackson Inc,2026-03-13 19:01:01,True
+4,68,90.23,Bills,Martinez Group,2026-03-27 20:44:26,True
+5,60,423.59,Shopping,"Underwood, Kemp and Miller",2026-01-04 17:46:57,False
+6,40,550.98,Bills,"Brown, Powers and Nguyen",2026-05-06 22:20:02,True
+7,57,236.28,Food,Moon-Holmes,2026-04-09 12:55:21,False
+8,66,30.39,Shopping,"Mcdowell, Wallace and Gonzalez",2026-04-06 23:13:42,False
+9,28,62.63,Food,Travis-Martinez,2026-01-02 16:57:38,True
+10,48,464.27,Shopping,"Meadows, Hancock and Alvarez",2026-03-06 08:26:16,False
+11,61,903.5,Food,Griffith-Kim,2026-02-25 20:03:49,True
+12,70,546.87,Shopping,Green Group,2026-03-08 00:19:29,False
+13,86,961.28,Bills,"Reed, Branch and Winters",2026-05-30 21:07:03,True
+14,68,342.89,Food,"Marsh, Maddox and Lynch",2026-02-12 22:23:12,False
+15,97,429.02,Entertainment,Stout-Foster,2026-03-30 05:35:28,True
+16,39,329.71,Shopping,Clark-Cannon,2026-02-09 22:52:06,True
+17,58,713.3,Food,Potter Ltd,2026-01-27 06:12:20,True
+18,55,14.59,Food,Cameron Ltd,2026-02-05 23:52:08,False
+19,24,557.43,Bills,"Parker, Rhodes and Johnson",2026-05-31 20:24:46,False
+20,30,558.62,Food,Johnson-Williams,2026-05-18 10:35:25,True
+21,61,747.18,Food,Anthony and Sons,2026-03-18 13:29:44,True
+22,3,941.47,Bills,Abbott-Maynard,2026-05-05 02:24:00,True
+23,75,617.12,Bills,"Lambert, Leach and Garcia",2026-03-27 16:50:09,True
+24,25,929.14,Entertainment,Santiago-White,2026-05-01 15:59:01,False
+25,53,693.64,Entertainment,"Brown, Adams and Russell",2026-01-01 19:05:00,False
+26,59,997.38,Food,Dudley Ltd,2026-01-07 11:47:10,False
+27,14,392.92,Bills,Wilson and Sons,2026-02-23 03:11:53,False
+28,35,715.29,Bills,"Trujillo, Wilson and Pineda",2026-06-05 19:30:39,False
+29,70,165.07,Entertainment,Cunningham Inc,2026-03-05 19:29:46,False
+30,33,307.64,Entertainment,Scott LLC,2026-01-04 01:27:35,True
+31,62,117.25,Food,Hopkins Inc,2026-03-29 07:26:40,True
+32,48,359.87,Bills,Bennett-Atkins,2026-01-05 14:42:10,False
+33,19,394.34,Shopping,Martinez PLC,2026-06-17 14:19:29,False
+34,22,79.54,Entertainment,"Sanders, Crane and Jackson",2026-01-28 16:19:35,False
+35,63,191.34,Entertainment,Strong Inc,2026-03-09 23:32:09,True
+36,8,862.95,Entertainment,Thompson-Salazar,2026-01-02 18:23:29,True
+37,59,470.69,Bills,Mack-Stewart,2026-05-13 15:56:26,False
+38,57,632.73,Entertainment,"Ward, Skinner and Hays",2026-01-08 12:03:48,True
+39,6,623.52,Shopping,"Evans, Smith and Guerra",2026-04-26 10:37:59,True
+40,93,4.94,Shopping,"Pollard, Rodriguez and Moore",2026-04-14 08:09:34,False
+41,68,497.57,Bills,"Ball, Conrad and Gillespie",2026-01-28 04:08:14,False
+42,86,829.31,Entertainment,"Evans, Kim and Medina",2026-02-03 19:17:18,True
+43,59,877.57,Food,Ramos Inc,2026-05-28 23:19:09,True
+44,11,234.01,Bills,Copeland-Cunningham,2026-03-28 13:27:43,True
+45,49,302.63,Bills,Davis-Jenkins,2026-04-18 18:07:54,True
+46,15,155.02,Food,"Peterson, Frazier and Beck",2026-03-26 06:28:49,False
+47,59,640.5,Bills,"Lawrence, Price and Flores",2026-02-18 15:05:08,False
+48,61,955.21,Entertainment,Nelson-Hughes,2026-01-02 08:29:32,False
+49,80,252.39,Food,Riley-Nichols,2026-06-16 08:21:55,False
+50,72,337.16,Food,Murphy LLC,2026-01-02 09:29:24,False
+51,45,308.48,Food,Rangel-Charles,2026-04-26 06:55:23,False
+52,61,949.98,Shopping,Walker Inc,2026-02-22 00:18:04,True
+53,28,485.83,Shopping,"Smith, Taylor and Pham",2026-03-28 13:52:01,False
+54,30,238.27,Food,"Rodriguez, Hicks and Soto",2026-04-04 07:24:29,True
+55,17,753.07,Food,Chang-Sanchez,2026-05-20 19:38:15,False
+56,22,833.03,Food,Arnold PLC,2026-03-25 21:45:30,True
+57,51,468.71,Bills,"Jones, Howard and Calhoun",2026-01-23 12:05:49,True
+58,37,909.12,Bills,Smith LLC,2026-06-09 18:58:45,False
+59,71,850.01,Shopping,Sanchez Ltd,2026-02-10 18:19:16,False
+60,11,673.55,Food,"Macias, Trevino and Holmes",2026-01-21 01:22:13,True
+61,38,154.84,Shopping,English-Rodriguez,2026-05-08 11:03:38,False
+62,64,770.97,Bills,Henry Group,2026-01-17 15:48:10,False
+63,88,467.74,Shopping,"Morgan, Thompson and Robinson",2026-03-09 21:17:58,False
+64,17,603.44,Bills,"Evans, Martinez and Cox",2026-02-21 06:14:25,True
+65,92,256.29,Food,Sandoval-Lutz,2026-06-15 07:36:15,False
+66,78,93.68,Food,"King, Cruz and Graham",2026-02-28 00:36:53,False
+67,24,725.18,Food,Reyes Group,2026-01-08 01:08:06,False
+68,21,520.79,Entertainment,Castillo Group,2026-01-07 22:19:15,False
+69,2,47.3,Shopping,"Fuentes, Hernandez and James",2026-03-23 10:07:53,True
+70,28,884.01,Food,Fischer Inc,2026-01-24 00:39:38,False
+71,61,754.06,Shopping,Thornton-Bradford,2026-02-28 13:34:55,False
+72,53,444.33,Shopping,Black-Robinson,2026-01-09 01:53:25,False
+73,73,16.61,Bills,Sanchez LLC,2026-01-28 15:43:12,True
+74,35,413.38,Food,"Medina, Coleman and Rhodes",2026-01-21 08:50:58,True
+75,52,30.74,Bills,"Henderson, Wright and Nelson",2026-04-24 06:17:34,False
+76,69,606.69,Bills,"Morris, Baker and Hicks",2026-06-12 05:32:08,False
+77,29,562.54,Shopping,Giles LLC,2026-04-23 13:48:53,True
+78,89,782.68,Food,Collins-Sanders,2026-01-17 04:16:37,True
+79,41,146.41,Entertainment,Perkins and Sons,2026-05-03 03:59:20,True
+80,19,438.4,Bills,Allen-Jennings,2026-03-12 20:41:03,False
+81,61,707.28,Bills,Simmons-Hill,2026-06-03 22:49:00,False
+82,41,176.49,Shopping,Turner-Contreras,2026-04-29 19:59:03,True
+83,7,755.4,Food,"Tran, Ibarra and Dominguez",2026-01-04 08:29:57,True
+84,66,14.89,Bills,Cross Inc,2026-03-25 10:54:32,False
+85,11,437.07,Shopping,Madden-Griffith,2026-01-03 14:28:43,True
+86,61,626.81,Food,"Riggs, Davis and Gill",2026-04-20 11:36:06,True
+87,90,525.72,Entertainment,Bryant Inc,2026-05-30 22:01:05,False
+88,60,182.2,Shopping,"Boyd, Ellis and Pratt",2026-01-31 06:36:05,False
+89,79,742.81,Bills,Taylor and Sons,2026-04-01 04:13:48,False
+90,38,392.17,Food,Green Ltd,2026-05-26 05:41:21,True
+91,28,672.96,Bills,Jones Group,2026-04-18 10:56:30,True
+92,17,805.41,Food,Hall-Holmes,2026-04-22 04:27:47,False
+93,45,793.25,Food,Hill-Johnson,2026-03-06 10:13:07,False
+94,100,592.35,Food,"Thompson, Hutchinson and Brewer",2026-05-15 06:16:22,True
+95,15,125.91,Food,"Smith, Martinez and Ryan",2026-06-15 13:01:42,False
+96,66,252.04,Entertainment,"Webster, Larsen and Aguilar",2026-05-23 23:04:22,False
+97,24,366.28,Shopping,White and Sons,2026-05-08 15:00:17,True
+98,49,974.27,Bills,Norman LLC,2026-01-24 19:00:13,False
+99,46,85.83,Shopping,"Smith, Owen and Sheppard",2026-04-28 09:23:23,True
+100,43,280.24,Shopping,Harrell-Miller,2026-05-27 02:18:45,True
+101,1,994.58,Food,"Hines, Giles and Navarro",2026-04-03 09:53:57,True
+102,31,132.15,Food,Alexander LLC,2026-04-01 13:44:08,False
+103,4,643.7,Food,"Howell, Nguyen and Jimenez",2026-03-02 12:35:50,True
+104,43,198.6,Shopping,Wilson Inc,2026-05-19 17:48:43,True
+105,26,466.35,Food,"Martinez, Brown and Taylor",2026-02-13 05:03:00,True
+106,60,422.7,Entertainment,Salazar Ltd,2026-01-10 11:36:56,False
+107,87,824.48,Shopping,Stewart-Torres,2026-02-07 12:31:07,True
+108,16,795.85,Entertainment,Brown Group,2026-01-18 05:07:48,True
+109,88,415.77,Shopping,Elliott-Jones,2026-05-05 00:25:12,True
+110,61,132.61,Entertainment,Kerr Inc,2026-02-22 15:40:16,False
+111,53,24.69,Bills,"Morrison, Young and Hayes",2026-03-26 12:02:03,True
+112,76,89.24,Shopping,"Williams, Barr and Spencer",2026-02-26 22:03:26,False
+113,43,521.76,Entertainment,Burton LLC,2026-05-03 06:47:17,False
+114,67,479.17,Food,Small-Rios,2026-02-25 23:08:24,False
+115,58,504.81,Bills,"Miller, White and Scott",2026-02-14 05:23:11,True
+116,81,529.92,Shopping,Vaughn-Daniels,2026-03-04 16:01:52,True
+117,16,698.56,Entertainment,Collins PLC,2026-01-14 13:42:25,True
+118,70,823.46,Bills,Schneider-Yu,2026-02-27 23:41:09,False
+119,15,15.58,Shopping,Berry Group,2026-04-29 03:03:42,True
+120,46,65.92,Food,"Stevens, Thomas and Wagner",2026-04-27 02:37:33,False
+121,7,692.77,Bills,"Mcpherson, Ramos and Pitts",2026-06-09 09:15:19,False
+122,68,766.8,Food,Hopkins Group,2026-06-13 17:28:56,False
+123,52,927.35,Bills,Lindsey-Leonard,2026-02-05 04:56:00,True
+124,52,971.78,Bills,Pierce-White,2026-01-05 05:58:59,True
+125,29,42.25,Entertainment,Cole Inc,2026-06-02 22:13:37,True
+126,86,974.84,Entertainment,Weber-Sanchez,2026-04-21 03:29:55,False
+127,51,287.59,Shopping,Juarez Ltd,2026-06-15 12:41:13,False
+128,71,126.12,Bills,"Marshall, Mcconnell and Brown",2026-05-31 17:14:33,False
+129,70,962.5,Bills,Haney-Larson,2026-04-30 02:39:27,False
+130,54,61.04,Bills,Austin-Avila,2026-03-29 17:00:04,True
+131,10,814.51,Entertainment,Conley-Bond,2026-05-01 02:38:43,True
+132,47,89.2,Shopping,Lopez and Sons,2026-01-14 16:33:00,True
+133,20,434.34,Entertainment,Barton Group,2026-06-18 00:53:45,False
+134,23,662.08,Bills,Cameron-Silva,2026-04-27 01:32:55,True
+135,40,662.61,Entertainment,Harrison-Johnson,2026-01-02 05:30:51,False
+136,76,744.16,Shopping,Brooks-Green,2026-03-16 02:46:26,False
+137,25,281.58,Entertainment,Cortez-Mills,2026-03-03 23:05:48,True
+138,25,173.83,Food,Bailey LLC,2026-03-26 14:16:27,True
+139,92,926.02,Entertainment,"Gill, Fernandez and Bradley",2026-02-06 17:06:15,True
+140,86,794.47,Shopping,Wright-Burton,2026-02-26 14:52:23,True
+141,100,280.29,Food,"Evans, Sanchez and Grant",2026-01-26 17:38:51,True
+142,85,70.4,Food,Kennedy-Joseph,2026-02-24 09:33:34,True
+143,53,355.23,Entertainment,Lee Ltd,2026-02-20 02:51:18,True
+144,71,528.78,Food,"Warren, Hebert and Leonard",2026-01-19 06:12:19,False
+145,73,148.52,Shopping,"Jensen, Boyd and Hale",2026-05-20 05:44:08,True
+146,67,429.41,Bills,"Martinez, Choi and Williams",2026-05-10 13:12:46,True
+147,79,158.76,Bills,"Romero, Miles and Ortiz",2026-06-02 18:02:57,False
+148,71,944.09,Entertainment,Clay-Kelly,2026-06-13 04:47:20,True
+149,89,557.48,Bills,"Brewer, Carson and Reyes",2026-02-25 02:36:44,True
+150,24,776.93,Shopping,Merritt LLC,2026-05-20 04:07:56,False
+151,75,113.17,Entertainment,"Johnson, Garcia and Johnson",2026-05-24 19:54:23,False
+152,1,583.18,Food,"Brooks, Perez and Herrera",2026-06-11 01:49:22,False
+153,18,875.15,Food,"Hoffman, Hill and Pearson",2026-02-09 22:32:16,True
+154,10,364.16,Bills,"Drake, Thompson and Brady",2026-03-26 10:25:53,False
+155,2,479.21,Bills,"Martinez, Hancock and Elliott",2026-04-19 20:43:28,True
+156,8,286.58,Food,"Garcia, Cox and Garza",2026-05-14 22:36:16,False
+157,40,928.5,Entertainment,Saunders Ltd,2026-05-07 07:50:13,True
+158,25,720.24,Bills,"Douglas, Simmons and Stevens",2026-04-16 06:08:52,True
+159,92,820.15,Food,Caldwell and Sons,2026-01-27 01:58:02,False
+160,72,388.98,Entertainment,"Serrano, Flores and Hill",2026-06-12 09:27:25,False
+161,10,142.68,Bills,Smith-Salazar,2026-01-11 01:03:18,False
+162,49,588.93,Shopping,"Barnett, Thornton and Avila",2026-01-21 11:11:08,True
+163,29,329.73,Food,"Koch, Mann and Wilson",2026-05-10 17:51:50,False
+164,47,348.85,Entertainment,Reeves LLC,2026-03-25 13:45:21,False
+165,86,467.41,Food,Willis and Sons,2026-02-24 18:21:37,True
+166,11,849.86,Food,"Gibson, Richardson and Walton",2026-01-23 12:24:20,False
+167,42,499.67,Bills,"Morgan, Ross and Woodard",2026-04-03 20:27:27,False
+168,67,463.18,Food,Smith and Sons,2026-01-25 20:14:28,False
+169,67,258.66,Bills,"Mitchell, Patel and Chase",2026-04-01 13:46:51,True
+170,4,520.77,Shopping,"Wheeler, Daniel and Robertson",2026-03-09 00:02:38,False
+171,31,336.5,Entertainment,Stark Ltd,2026-06-01 10:51:19,True
+172,55,697.76,Bills,Mccoy and Sons,2026-06-03 05:13:03,True
+173,88,99.82,Entertainment,"Wright, Johnson and Hoover",2026-03-29 11:36:18,False
+174,3,677.93,Bills,"Jones, Bernard and Dennis",2026-01-25 07:19:32,False
+175,25,302.16,Entertainment,Bryant Group,2026-05-08 03:31:37,False
+176,75,787.45,Bills,Zimmerman and Sons,2026-01-13 07:28:23,True
+177,32,572.83,Bills,Chandler LLC,2026-04-19 02:32:03,False
+178,88,356.58,Entertainment,Lucas-Nunez,2026-02-07 04:03:47,True
+179,78,615.48,Shopping,Hernandez Inc,2026-02-25 01:32:25,True
+180,53,241.3,Food,Carter-Manning,2026-06-16 20:17:43,True
+181,46,504.54,Food,"Wang, Smith and Hunter",2026-03-20 18:17:37,False
+182,88,738.58,Food,"Bates, Gray and Velasquez",2026-02-02 03:35:26,False
+183,19,165.63,Shopping,"Lee, Brown and Munoz",2026-02-12 00:53:48,False
+184,10,89.35,Shopping,Bailey-Thompson,2026-01-12 15:00:30,False
+185,48,61.39,Bills,Tyler-Davies,2026-01-07 04:45:54,True
+186,68,300.04,Entertainment,"Chavez, Nguyen and Lewis",2026-03-23 15:22:26,True
+187,26,887.98,Food,Thomas PLC,2026-01-12 04:51:27,False
+188,20,107.2,Food,Evans-Tran,2026-03-05 05:44:21,False
+189,50,779.74,Food,Johnson Inc,2026-04-05 08:33:09,True
+190,51,209.34,Bills,Allen-Woods,2026-03-21 23:28:33,True
+191,66,965.62,Shopping,Evans-Quinn,2026-05-23 11:35:24,True
+192,63,35.1,Bills,Ward Inc,2026-04-19 14:58:38,True
+193,3,14.06,Food,Williams-Barron,2026-06-06 11:06:35,True
+194,67,522.94,Shopping,Patel-Jimenez,2026-03-11 08:45:18,False
+195,79,586.35,Entertainment,"Garcia, Leblanc and Young",2026-05-17 11:02:11,False
+196,57,28.96,Shopping,Lynch-Carter,2026-06-16 13:20:15,True
+197,68,308.82,Shopping,Weber-Webb,2026-01-11 18:09:02,True
+198,24,984.29,Bills,"Herman, Richards and Hanson",2026-06-01 12:47:36,False
+199,71,102.66,Bills,Martin Group,2026-02-22 14:57:22,False
+200,61,807.8,Shopping,"Burke, Harris and Avery",2026-06-15 19:58:06,True
+201,29,170.64,Shopping,Stevens and Sons,2026-05-02 15:36:01,False
+202,10,875.54,Entertainment,Martinez-Ramirez,2026-03-28 08:10:12,True
+203,62,616.52,Food,Smith and Sons,2026-01-07 02:12:32,True
+204,34,318.7,Shopping,"Williams, Thompson and Banks",2026-02-12 20:35:59,True
+205,84,90.58,Bills,Evans-Randolph,2026-01-21 06:39:05,False
+206,4,384.05,Shopping,Warren-Garcia,2026-04-14 08:46:58,True
+207,15,367.65,Entertainment,"Jones, Richardson and Mcdaniel",2026-04-25 05:59:27,False
+208,4,138.86,Food,"Munoz, Gonzales and Mason",2026-01-02 22:46:35,False
+209,66,61.18,Entertainment,Garcia-Mitchell,2026-02-19 18:34:42,False
+210,100,811.53,Bills,Armstrong-Collins,2026-06-17 00:36:58,False
+211,27,685.52,Bills,Young-Moore,2026-06-15 20:02:41,True
+212,76,556.15,Entertainment,"Irwin, Rivera and Morris",2026-03-21 10:25:51,True
+213,54,574.62,Entertainment,Bennett PLC,2026-06-13 09:27:01,True
+214,76,438.45,Shopping,Hoffman-Hudson,2026-05-06 14:14:53,True
+215,80,473.13,Food,"Vazquez, Smith and Freeman",2026-05-27 04:58:35,False
+216,49,733.33,Food,Sanchez-Arellano,2026-03-09 19:08:40,False
+217,32,778.6,Food,Bell Ltd,2026-01-23 01:46:31,True
+218,58,846.66,Food,Perez and Sons,2026-01-30 02:43:51,True
+219,77,666.29,Food,Morris-Bautista,2026-04-12 12:51:39,False
+220,85,201.18,Shopping,Marks Group,2026-06-01 04:25:59,False
+221,26,628.16,Entertainment,Clark-Mcdonald,2026-05-25 07:31:02,False
+222,78,383.99,Bills,Taylor-Andrews,2026-04-08 06:56:51,False
+223,85,718.42,Entertainment,Hammond-Brooks,2026-04-09 11:23:09,False
+224,14,297.02,Bills,Rose-Landry,2026-02-17 21:19:52,False
+225,92,614.67,Entertainment,Walker and Sons,2026-06-10 13:56:11,True
+226,27,918.05,Bills,Greene Group,2026-05-31 03:38:50,True
+227,20,742.45,Bills,"Robinson, Estes and Odom",2026-02-22 22:32:16,False
+228,96,193.02,Food,Brown-Barnes,2026-06-15 06:06:38,False
+229,28,924.16,Bills,Morales-Torres,2026-02-06 07:59:53,False
+230,28,998.36,Bills,"Leblanc, Warren and Palmer",2026-05-12 03:17:00,True
+231,39,454.64,Entertainment,Hernandez-Baker,2026-02-22 19:45:25,False
+232,52,419.76,Shopping,"Zavala, Li and Mendoza",2026-06-02 01:25:38,False
+233,65,935.59,Shopping,Perez-Austin,2026-05-12 01:30:08,False
+234,69,705.31,Bills,Taylor PLC,2026-05-03 07:37:45,False
+235,50,392.06,Entertainment,Mahoney-Freeman,2026-05-03 07:28:19,True
+236,55,21.77,Entertainment,Orozco-Fields,2026-03-05 14:39:01,True
+237,51,220.6,Bills,Dunn-Wright,2026-02-02 03:45:24,True
+238,16,957.3,Bills,Gill Ltd,2026-05-11 17:22:10,False
+239,86,854.39,Food,Jennings LLC,2026-05-30 01:17:23,False
+240,6,959.76,Food,"Meza, Phillips and Sutton",2026-02-02 05:09:39,False
+241,2,557.03,Bills,"Lewis, Garcia and Moran",2026-03-14 07:15:00,False
+242,93,100.43,Shopping,Schultz Group,2026-06-18 16:17:22,True
+243,76,43.35,Bills,Mccarty and Sons,2026-06-14 11:31:05,False
+244,25,259.96,Bills,Murphy Ltd,2026-06-01 03:37:21,False
+245,78,542.38,Entertainment,Garcia Group,2026-02-06 08:03:40,True
+246,65,453.13,Bills,Floyd Group,2026-05-02 10:47:52,False
+247,94,602.52,Entertainment,Rodriguez LLC,2026-02-19 07:41:35,True
+248,38,817.18,Shopping,Hawkins and Sons,2026-03-24 10:32:09,False
+249,47,157.61,Bills,"Richard, Petersen and Alvarez",2026-02-11 08:17:49,False
+250,86,972.26,Food,Hamilton Ltd,2026-04-01 20:36:26,False
+251,8,854.01,Shopping,Coleman LLC,2026-01-30 04:02:16,False
+252,43,241.92,Shopping,"Cochran, Harper and Garcia",2026-03-08 02:17:43,False
+253,94,227.88,Shopping,Alvarez and Sons,2026-05-08 10:57:23,True
+254,46,270.97,Shopping,"Robinson, Malone and Lara",2026-05-27 12:34:33,True
+255,51,552.96,Food,Harris Group,2026-05-19 03:58:11,True
+256,78,370.02,Food,Day and Sons,2026-02-15 02:00:51,False
+257,20,990.27,Bills,Ward LLC,2026-04-06 11:41:19,False
+258,64,306.66,Food,Conrad-Hall,2026-02-15 11:59:50,True
+259,92,490.88,Bills,"Newman, King and Kline",2026-06-07 18:22:45,True
+260,16,55.62,Entertainment,"Potter, Martinez and Burns",2026-04-10 03:23:52,True
+261,82,227.74,Entertainment,Arroyo-Jones,2026-06-17 05:56:34,True
+262,65,881.34,Shopping,"Garza, Gutierrez and Mckay",2026-03-03 06:17:23,False
+263,24,813.17,Entertainment,Russell-Carter,2026-04-15 06:15:28,False
+264,85,161.63,Bills,Terry Group,2026-01-05 05:13:05,False
+265,94,939.79,Food,Jones and Sons,2026-02-09 06:35:36,True
+266,70,962.16,Entertainment,"Ellis, Browning and Padilla",2026-03-09 18:16:05,False
+267,64,372.6,Entertainment,"Levy, Hubbard and Hartman",2026-05-28 09:54:39,True
+268,79,772.15,Shopping,"Williams, Hernandez and Castillo",2026-04-13 17:02:24,False
+269,48,65.24,Shopping,"Houston, Mcdonald and Boyd",2026-05-06 16:09:45,False
+270,77,85.31,Entertainment,Marshall LLC,2026-01-03 23:41:45,False
+271,91,770.71,Bills,"Taylor, Holland and Gonzalez",2026-01-02 23:49:08,True
+272,88,312.09,Food,Cook Inc,2026-03-19 16:23:35,False
+273,39,572.86,Entertainment,"Mahoney, Bell and Jones",2026-04-27 22:05:35,True
+274,67,365.55,Bills,"Frost, Chambers and Avery",2026-04-19 08:50:36,False
+275,64,171.08,Bills,Mccoy-Wilson,2026-01-17 05:06:43,False
+276,50,655.29,Food,Wilson Group,2026-05-25 23:47:05,True
+277,57,41.56,Food,Cooke LLC,2026-03-10 13:14:16,False
+278,66,788.3,Entertainment,Bradshaw-Hill,2026-04-03 01:18:15,True
+279,100,418.7,Bills,"Schmidt, Lewis and Martin",2026-03-25 12:28:12,True
+280,50,737.5,Shopping,Myers PLC,2026-06-09 03:25:48,False
+281,79,80.34,Bills,"Haley, Thompson and Todd",2026-05-11 04:09:08,False
+282,7,320.76,Bills,"Brooks, Brown and Maxwell",2026-01-25 14:47:45,True
+283,14,107.5,Food,Sampson-Cox,2026-01-11 04:32:27,True
+284,61,419.95,Bills,Short LLC,2026-02-19 11:04:08,True
+285,52,767.79,Food,"Hines, Cooper and Hughes",2026-02-27 03:13:28,False
+286,11,893.92,Shopping,Williams PLC,2026-01-17 05:55:47,False
+287,49,732.85,Bills,Moore-Wood,2026-05-07 21:04:29,False
+288,99,671.42,Food,Sherman-Villegas,2026-04-02 06:31:01,True
+289,3,291.99,Food,Hall Group,2026-02-08 23:37:51,False
+290,27,867.78,Food,"Ashley, Patel and Thomas",2026-04-18 22:29:03,True
+291,9,269.09,Shopping,Stewart PLC,2026-02-05 14:22:04,False
+292,80,395.26,Food,Snyder Inc,2026-04-23 22:30:43,True
+293,50,985.74,Shopping,Nichols Ltd,2026-02-09 13:29:59,False
+294,26,449.12,Shopping,Delgado and Sons,2026-05-21 22:32:10,True
+295,84,878.57,Bills,Chavez PLC,2026-02-15 19:57:33,True
+296,26,232.37,Bills,"Todd, Garza and Gallagher",2026-01-17 17:53:11,False
+297,12,472.94,Food,"Jones, Johnson and Wilson",2026-03-03 05:22:49,False
+298,9,771.53,Entertainment,Hernandez-Howard,2026-06-09 06:01:40,True
+299,64,537.39,Entertainment,Lewis PLC,2026-05-29 17:19:54,False
+300,58,991.91,Shopping,Gray Inc,2026-01-16 05:23:13,False
+301,48,197.81,Shopping,"Hughes, Young and Price",2026-01-22 18:55:50,False
+302,12,674.25,Food,Steele-Johnson,2026-03-31 07:41:20,False
+303,69,626.87,Food,"Hernandez, Rojas and Vasquez",2026-02-24 14:52:56,True
+304,37,507.85,Shopping,Vincent-Meyer,2026-01-24 02:42:38,True
+305,100,375.45,Bills,Edwards-Rivera,2026-01-13 12:48:37,False
+306,16,720.55,Entertainment,"Johnson, Ward and Manning",2026-04-11 14:33:33,False
+307,63,811.42,Food,"Santos, Moran and Stanley",2026-02-09 15:23:13,True
+308,28,750.03,Shopping,Lopez-Bruce,2026-03-30 09:12:06,False
+309,63,702.2,Bills,Hines-Camacho,2026-03-27 17:12:22,False
+310,81,349.08,Entertainment,"Hernandez, Turner and Moody",2026-05-14 08:07:16,True
+311,75,229.78,Shopping,Clark-Johnson,2026-03-29 23:20:07,True
+312,15,729.04,Bills,Logan-Hill,2026-05-16 11:37:27,True
+313,36,841.16,Shopping,Vargas-Levine,2026-04-02 00:13:31,True
+314,6,377.05,Shopping,Wilson-Kelly,2026-03-18 10:56:30,True
+315,68,575.68,Shopping,Beasley Inc,2026-05-15 03:38:08,False
+316,93,578.96,Food,"Chavez, Mitchell and Garza",2026-04-04 05:17:39,True
+317,34,925.74,Shopping,Gross-Craig,2026-03-25 05:22:23,True
+318,2,733.58,Food,"Reid, Bauer and Edwards",2026-03-24 08:43:30,True
+319,39,949.03,Shopping,Brown-Hammond,2026-02-21 12:18:20,False
+320,15,104.79,Bills,Morrow Ltd,2026-03-14 10:32:49,False
+321,51,281.04,Bills,"Parker, Meyer and Brown",2026-05-25 07:27:33,False
+322,93,65.49,Entertainment,"Li, Andersen and Lopez",2026-04-03 18:09:07,True
+323,13,922.86,Entertainment,Smith PLC,2026-01-08 20:50:26,True
+324,2,875.26,Food,Johnson-Charles,2026-03-28 05:11:02,True
+325,8,545.68,Shopping,Quinn LLC,2026-03-14 11:55:10,True
+326,11,464.44,Bills,Pennington LLC,2026-06-08 07:11:11,True
+327,63,634.2,Entertainment,"Salas, Owens and Thompson",2026-02-28 11:02:12,True
+328,63,58.93,Bills,Bentley and Sons,2026-01-22 02:29:17,False
+329,81,175.46,Food,Moore PLC,2026-04-09 17:03:06,False
+330,93,578.93,Shopping,"Pierce, Cordova and Jackson",2026-05-13 22:30:28,False
+331,69,268.17,Shopping,Mcdaniel Ltd,2026-01-19 18:03:48,False
+332,84,271.81,Bills,Price PLC,2026-04-30 09:54:03,False
+333,66,794.8,Food,"Adams, Stein and Gibson",2026-04-26 09:16:58,False
+334,72,800.33,Food,"Collins, Nelson and Valenzuela",2026-03-30 09:28:04,False
+335,61,515.94,Bills,Vaughn Group,2026-01-19 09:50:36,True
+336,38,266.81,Food,"Smith, Henderson and Roberts",2026-02-14 16:47:30,False
+337,28,133.12,Food,Peters-Adams,2026-05-29 16:03:49,True
+338,18,819.35,Food,Young-Thompson,2026-02-03 10:43:10,False
+339,8,19.7,Entertainment,"Allison, Jackson and Sims",2026-01-23 14:08:00,False
+340,12,704.78,Bills,"Mcdonald, Reid and Dickson",2026-03-22 11:34:05,True
+341,33,687.36,Food,Cowan and Sons,2026-06-12 00:01:58,False
+342,26,269.59,Entertainment,"Martin, Hancock and Johnson",2026-02-27 22:19:57,False
+343,75,528.06,Entertainment,Campbell-Hudson,2026-02-10 04:40:17,False
+344,88,407.85,Entertainment,Hicks-Rivera,2026-02-26 15:14:47,False
+345,71,7.86,Shopping,Lopez LLC,2026-04-17 13:22:28,False
+346,86,388.64,Food,Miller-Martinez,2026-06-02 06:47:26,False
+347,63,240.83,Food,"Flores, Walter and Martin",2026-01-20 00:18:06,False
+348,31,591.23,Shopping,Patterson LLC,2026-04-06 08:46:33,False
+349,70,86.66,Shopping,Miles-Ford,2026-01-23 19:53:16,True
+350,16,611.77,Bills,"Patterson, Jensen and Mclean",2026-03-09 11:08:25,False
+351,14,454.75,Shopping,"Phillips, Thompson and Leon",2026-03-13 10:41:25,False
+352,88,562.1,Entertainment,Smith-Pena,2026-05-01 09:05:17,True
+353,30,441.54,Shopping,Mcconnell LLC,2026-04-25 15:01:07,True
+354,30,236.67,Food,"Glover, Mack and Durham",2026-02-21 22:50:54,True
+355,93,733.03,Entertainment,Henry-Sullivan,2026-03-29 02:20:33,True
+356,38,933.34,Food,Shepherd Inc,2026-06-17 11:12:50,True
+357,50,197.96,Shopping,Dillon-Keith,2026-05-01 02:42:30,True
+358,9,620.8,Bills,Henderson and Sons,2026-06-02 06:09:25,True
+359,12,37.02,Food,Kemp-Harris,2026-06-02 00:02:29,False
+360,100,344.99,Food,"Gates, Martinez and Anderson",2026-05-11 20:29:17,False
+361,62,593.42,Bills,"Hernandez, Houston and Castro",2026-06-06 20:08:37,False
+362,9,284.31,Food,"Jimenez, Mcpherson and Clay",2026-06-05 09:17:42,False
+363,42,236.45,Entertainment,Williams-Cox,2026-03-18 14:39:17,False
+364,5,975.92,Entertainment,"Barnes, Soto and Davis",2026-03-22 22:15:29,True
+365,4,970.19,Entertainment,Torres and Sons,2026-06-07 18:19:12,False
+366,15,655.31,Food,Gutierrez Ltd,2026-04-03 11:18:26,True
+367,6,292.38,Food,Wells LLC,2026-06-06 17:18:13,True
+368,90,112.04,Bills,Haney Inc,2026-02-08 03:29:03,True
+369,97,964.88,Entertainment,"Simmons, Munoz and Jordan",2026-01-11 04:40:02,True
+370,2,926.3,Bills,Baldwin Ltd,2026-05-23 09:59:27,False
+371,78,787.26,Shopping,Jensen and Sons,2026-04-17 17:34:34,True
+372,100,452.35,Entertainment,"Stone, Johnson and Daniels",2026-05-13 14:10:06,False
+373,72,843.46,Food,Potter-Garcia,2026-03-11 07:32:34,False
+374,19,417.22,Entertainment,Rasmussen-Evans,2026-06-05 23:49:08,False
+375,40,546.5,Shopping,Park-Green,2026-06-12 19:23:17,False
+376,28,775.93,Bills,"Malone, Keller and Sanchez",2026-01-31 03:06:57,True
+377,57,614.93,Shopping,"Trevino, Hunt and Robinson",2026-04-16 15:38:30,True
+378,77,291.03,Entertainment,"Hernandez, Johnson and Owen",2026-02-14 01:07:31,False
+379,22,629.07,Food,Dawson PLC,2026-02-11 03:50:00,True
+380,24,136.67,Bills,Wallace-Jones,2026-03-17 11:56:10,False
+381,6,2.85,Entertainment,Cortez LLC,2026-01-28 08:48:34,True
+382,50,498.31,Shopping,Cooper-Johnson,2026-01-08 23:41:08,True
+383,28,670.02,Shopping,"Pierce, Wilson and Mason",2026-02-01 05:33:03,False
+384,34,222.46,Entertainment,Collier and Sons,2026-01-02 21:25:32,False
+385,52,722.86,Bills,King-Rivera,2026-01-23 21:31:29,True
+386,30,872.33,Entertainment,"Olsen, Bowen and Moran",2026-05-21 21:41:35,True
+387,38,217.99,Entertainment,Werner LLC,2026-01-16 15:38:15,False
+388,1,450.0,Bills,Hodge Group,2026-04-15 21:44:07,False
+389,94,751.95,Food,Simmons-Pollard,2026-04-22 03:50:13,False
+390,96,446.3,Shopping,"Good, Davis and Smith",2026-03-10 11:44:30,False
+391,65,396.91,Food,"Smith, Powers and Brewer",2026-03-29 14:32:07,True
+392,20,391.1,Food,Garcia PLC,2026-02-25 13:36:02,False
+393,31,380.4,Entertainment,Travis Group,2026-03-05 14:41:51,False
+394,27,409.69,Bills,Alexander-Stewart,2026-03-28 00:11:54,False
+395,56,394.12,Bills,Benson Group,2026-03-10 22:14:34,True
+396,21,575.21,Food,Webb-Mcclain,2026-02-25 17:25:06,False
+397,7,521.56,Shopping,Hayes-Lee,2026-05-01 14:01:30,True
+398,63,231.91,Entertainment,Brown Ltd,2026-06-18 16:26:08,True
+399,2,272.55,Food,"Stephens, Harris and May",2026-02-13 05:57:43,False
+400,29,195.49,Food,Buchanan-Price,2026-06-17 13:59:41,True
+401,82,915.93,Shopping,Kemp-Hernandez,2026-01-16 10:52:48,True
+402,93,806.55,Shopping,"White, Rhodes and Duran",2026-04-30 17:49:13,False
+403,57,341.58,Bills,"Ferguson, Lamb and Tanner",2026-04-06 07:10:12,True
+404,44,7.02,Food,"Weiss, Hall and Hanson",2026-03-22 18:05:37,False
+405,59,704.51,Food,Nelson and Sons,2026-03-25 10:24:56,False
+406,43,490.39,Entertainment,"Ward, Diaz and Herrera",2026-03-03 10:23:28,False
+407,58,154.87,Bills,"Rodriguez, Mcclure and Eaton",2026-02-05 04:07:05,False
+408,19,292.8,Food,Woods-Carson,2026-03-07 07:43:31,False
+409,30,499.21,Bills,"Cole, Hanson and Owens",2026-06-06 04:11:36,False
+410,75,458.8,Food,Marquez-Browning,2026-06-12 07:31:05,False
+411,96,336.2,Food,Wolfe-Torres,2026-02-23 00:46:09,False
+412,93,347.15,Shopping,"White, Sampson and Young",2026-02-07 22:18:16,False
+413,95,984.83,Entertainment,"Rodriguez, Rocha and Bauer",2026-04-01 02:59:29,True
+414,51,998.71,Food,Fletcher Inc,2026-03-07 13:23:18,False
+415,42,143.6,Bills,Hess Group,2026-05-07 20:20:01,False
+416,56,425.75,Entertainment,Robinson Inc,2026-01-20 06:12:14,False
+417,36,597.77,Food,Houston-Glenn,2026-06-17 05:55:27,True
+418,36,450.9,Bills,Lynch-Fischer,2026-05-14 06:15:30,True
+419,48,241.66,Food,Brown LLC,2026-01-24 05:27:04,False
+420,41,965.77,Shopping,Ferguson and Sons,2026-02-05 14:05:21,True
+421,1,596.92,Food,Brady Ltd,2026-06-10 08:15:14,True
+422,89,698.29,Shopping,Scott LLC,2026-05-16 15:26:56,False
+423,27,985.63,Shopping,Mercer-Ross,2026-05-24 10:25:46,True
+424,75,678.41,Bills,Ford LLC,2026-01-16 12:14:42,False
+425,25,244.04,Food,Lee-Livingston,2026-04-23 21:14:59,True
+426,72,65.02,Shopping,"Perez, Baker and Allen",2026-05-18 05:20:31,False
+427,94,813.16,Entertainment,Hunter Group,2026-02-01 19:31:01,False
+428,30,784.77,Entertainment,"Gordon, Smith and Pena",2026-04-19 16:20:55,True
+429,96,874.58,Food,Taylor Ltd,2026-05-28 15:20:37,True
+430,24,774.99,Entertainment,Johnson and Sons,2026-04-11 07:42:19,False
+431,80,3.07,Entertainment,"Rodriguez, Malone and Jones",2026-01-12 12:49:56,True
+432,73,226.13,Food,Robinson Ltd,2026-02-18 16:49:14,True
+433,50,793.02,Bills,Dougherty-Mercer,2026-05-24 11:36:49,True
+434,80,685.04,Entertainment,Maldonado-Collins,2026-05-01 21:16:23,False
+435,69,561.3,Entertainment,Murphy-Palmer,2026-06-15 17:10:24,False
+436,97,77.17,Food,Gutierrez PLC,2026-04-06 17:22:26,True
+437,67,19.89,Bills,Cannon Inc,2026-04-05 01:18:26,True
+438,72,379.01,Food,"Finley, Richards and Mcdonald",2026-01-06 14:14:15,True
+439,40,134.14,Shopping,Molina Inc,2026-05-28 10:25:48,False
+440,74,975.34,Shopping,Blankenship Inc,2026-03-23 11:58:07,False
+441,94,273.19,Food,"Curtis, Ibarra and Jones",2026-05-15 15:17:55,True
+442,20,34.34,Entertainment,Copeland-Miller,2026-05-07 09:56:01,False
+443,43,446.57,Food,Burgess-Hall,2026-03-21 21:47:50,True
+444,15,317.55,Shopping,"Middleton, Klein and Reynolds",2026-04-15 14:03:46,False
+445,2,214.76,Entertainment,"Alexander, Ruiz and Davis",2026-05-10 08:29:47,False
+446,88,598.36,Bills,"Campbell, Short and Miller",2026-04-18 22:59:10,False
+447,72,437.01,Bills,Watkins and Sons,2026-02-01 04:59:38,False
+448,50,103.36,Food,Bender PLC,2026-01-07 23:43:40,True
+449,88,248.29,Shopping,Richardson-Price,2026-06-19 13:24:38,False
+450,37,203.93,Food,Scott Group,2026-06-14 17:20:54,True
+451,89,620.62,Shopping,Gallagher-Frye,2026-04-06 22:38:15,True
+452,93,824.03,Food,Franklin-Pearson,2026-04-23 05:03:47,True
+453,36,703.0,Food,Perez-Ochoa,2026-03-21 03:20:39,True
+454,12,155.25,Bills,Guerrero-Christian,2026-04-06 05:40:12,True
+455,3,804.15,Entertainment,Thomas and Sons,2026-03-08 17:04:56,True
+456,27,772.37,Shopping,"Erickson, Hall and Adams",2026-06-14 14:22:11,True
+457,88,937.03,Bills,"Todd, Levine and Ayers",2026-02-02 19:00:44,False
+458,42,518.98,Bills,"Johnson, Johnson and Phillips",2026-04-30 02:33:33,True
+459,15,50.86,Bills,Myers and Sons,2026-03-18 17:35:34,False
+460,73,508.52,Entertainment,"Thompson, Davidson and Moore",2026-02-11 22:59:23,False
+461,87,781.38,Food,"Murray, Richard and French",2026-03-20 03:45:31,False
+462,59,612.21,Bills,"Butler, Franco and Chang",2026-06-12 23:19:05,False
+463,91,276.01,Entertainment,"Johnson, Yoder and Love",2026-03-05 13:30:46,True
+464,85,792.34,Food,Davis-Whitaker,2026-01-20 15:17:21,True
+465,43,921.6,Shopping,Pope-Gardner,2026-05-30 10:51:09,False
+466,97,609.54,Shopping,Phillips Inc,2026-04-23 01:34:35,False
+467,96,397.13,Entertainment,Grant-Ross,2026-05-30 03:31:35,False
+468,10,912.24,Bills,Wells PLC,2026-05-01 14:33:12,False
+469,87,774.21,Bills,"Reynolds, Hernandez and Williams",2026-02-26 22:06:10,True
+470,84,463.73,Bills,Rodriguez Inc,2026-02-18 12:27:28,True
+471,2,215.01,Bills,"Dominguez, Barr and Choi",2026-05-31 20:15:58,False
+472,71,514.38,Food,James-Goodman,2026-04-16 18:05:05,False
+473,85,245.23,Entertainment,Moore and Sons,2026-01-30 15:13:30,False
+474,91,656.85,Entertainment,Brown PLC,2026-02-19 13:38:44,True
+475,94,213.02,Food,Jones-Peterson,2026-02-09 03:27:16,False
+476,33,562.92,Food,"Brown, Herrera and Richards",2026-06-02 05:44:27,True
+477,98,57.57,Entertainment,Smith-Thomas,2026-02-23 21:41:30,False
+478,30,457.92,Entertainment,"Marquez, Turner and Johnson",2026-03-20 21:20:28,True
+479,81,453.7,Food,Peters-Lucas,2026-01-25 19:02:05,False
+480,29,613.46,Entertainment,Myers-Taylor,2026-02-05 17:55:50,False
+481,40,528.15,Shopping,Nelson Inc,2026-06-11 03:20:07,False
+482,3,651.92,Bills,Cox LLC,2026-06-18 01:14:15,True
+483,45,865.55,Food,Richardson-Mullen,2026-04-20 21:34:27,True
+484,1,423.03,Food,"Price, Hall and Miller",2026-04-30 08:29:28,False
+485,4,597.08,Bills,Summers Ltd,2026-05-28 18:47:29,True
+486,25,714.13,Bills,Tyler LLC,2026-03-05 04:21:56,False
+487,78,74.88,Shopping,Harrington Ltd,2026-01-07 09:26:30,True
+488,13,636.94,Food,Collins Group,2026-03-03 01:13:26,True
+489,65,177.27,Food,Jackson and Sons,2026-06-19 02:46:06,False
+490,72,481.22,Shopping,Collins-Taylor,2026-06-03 12:51:31,True
+491,93,686.43,Entertainment,"Foster, Dominguez and Ramirez",2026-01-10 19:12:28,False
+492,25,804.74,Entertainment,Conrad Ltd,2026-03-16 20:48:01,True
+493,5,24.58,Entertainment,"Mendoza, Morales and Nguyen",2026-03-18 15:20:48,False
+494,75,91.12,Shopping,"Moore, Mcdonald and Clarke",2026-03-22 12:51:50,True
+495,45,186.08,Bills,Reese Ltd,2026-03-30 08:02:15,False
+496,32,341.84,Shopping,"Myers, Chandler and Brooks",2026-02-28 03:55:28,True
+497,19,66.57,Shopping,Daniels Inc,2026-02-23 02:37:32,True
+498,80,758.22,Bills,Mullins Inc,2026-02-16 00:29:32,False
+499,89,716.06,Bills,Moody-Cook,2026-05-03 02:05:21,False
+500,24,121.29,Entertainment,"Campbell, Herman and Henderson",2026-03-12 18:14:30,False
+501,25,501.47,Shopping,Reynolds Inc,2026-01-14 06:38:32,True
+502,33,839.39,Shopping,"Davis, Perry and Allen",2026-04-20 23:46:17,True
+503,89,251.95,Food,Ramos-Wilson,2026-03-01 16:37:47,True
+504,29,577.26,Bills,Downs-Landry,2026-02-20 09:23:35,False
+505,75,148.8,Shopping,"Daniel, Wood and Lee",2026-02-23 01:42:20,False
+506,88,617.04,Bills,"Mullins, Greer and Anderson",2026-03-15 15:41:11,False
+507,38,791.83,Entertainment,Powers-Harris,2026-03-22 10:05:21,True
+508,24,925.58,Food,Young LLC,2026-03-11 15:34:27,False
+509,31,654.55,Shopping,Baldwin-Miller,2026-02-16 10:11:23,False
+510,94,870.61,Bills,Proctor-Hensley,2026-02-10 21:32:35,True
+511,84,428.17,Shopping,"Watts, Pearson and Delgado",2026-02-25 17:52:23,False
+512,95,830.41,Entertainment,"Cortez, Stephenson and Harris",2026-01-07 09:48:30,False
+513,88,950.06,Shopping,Holmes-Gallagher,2026-03-26 01:33:51,False
+514,73,8.87,Shopping,Soto-Bradley,2026-02-14 03:09:48,False
+515,93,694.4,Bills,King LLC,2026-05-04 13:19:14,True
+516,83,673.11,Entertainment,Smith and Sons,2026-02-15 16:06:34,True
+517,76,424.63,Food,Chavez Ltd,2026-06-10 00:19:02,False
+518,67,898.57,Shopping,White LLC,2026-06-01 18:35:19,False
+519,29,790.31,Shopping,Mcmillan LLC,2026-04-25 01:11:48,False
+520,57,603.65,Bills,"Lewis, Zhang and Davis",2026-06-17 14:38:28,True
+521,89,193.24,Entertainment,"Houston, Sanchez and Yang",2026-01-24 16:07:53,False
+522,62,855.96,Shopping,"Lewis, Rollins and Steele",2026-02-06 00:31:04,False
+523,67,961.58,Bills,"Cohen, Perry and Richardson",2026-01-29 10:36:35,True
+524,59,678.96,Bills,Parker PLC,2026-05-17 17:34:55,True
+525,99,225.96,Entertainment,Johnson-Young,2026-03-30 09:16:48,True
+526,53,75.02,Shopping,Mcdowell-Frey,2026-01-22 13:02:51,False
+527,81,818.41,Entertainment,Austin and Sons,2026-04-24 18:10:23,False
+528,96,60.87,Food,Smith Group,2026-02-23 00:59:43,False
+529,55,998.4,Food,Wallace-Johnson,2026-01-12 20:37:43,True
+530,3,442.06,Bills,Parsons-Harvey,2026-03-16 22:20:49,False
+531,71,13.45,Food,Garcia-Aguirre,2026-04-22 17:48:53,True
+532,14,420.03,Entertainment,Gallagher PLC,2026-04-23 10:19:30,False
+533,6,982.93,Food,"Smith, Russell and Harris",2026-01-03 22:05:10,False
+534,91,454.89,Food,Hill LLC,2026-06-10 12:52:38,True
+535,11,423.01,Bills,"Chavez, Maxwell and Reynolds",2026-03-28 10:11:12,False
+536,61,443.72,Bills,"Miller, Torres and Conley",2026-06-15 21:50:00,False
+537,59,420.97,Food,Woodward and Sons,2026-05-28 13:58:29,True
+538,21,412.17,Entertainment,Hull Ltd,2026-01-31 19:43:39,True
+539,72,631.96,Food,Williams-Morrison,2026-02-18 09:22:07,True
+540,76,263.63,Bills,"Lee, Nichols and Cruz",2026-05-17 04:00:38,True
+541,12,85.56,Bills,Anderson-Mendoza,2026-02-04 05:44:16,False
+542,80,927.95,Shopping,Brown Inc,2026-05-15 05:12:56,True
+543,14,421.74,Shopping,"Oneill, Powell and Lane",2026-03-05 22:06:56,True
+544,6,507.58,Entertainment,Mccarthy Ltd,2026-05-22 02:13:58,False
+545,12,612.18,Food,Bentley-Miller,2026-02-20 22:56:23,False
+546,98,142.62,Bills,"Carter, Wallace and Brown",2026-03-11 12:13:30,True
+547,46,610.26,Shopping,Mendoza-Joseph,2026-06-04 02:54:56,False
+548,28,794.9,Entertainment,Reyes PLC,2026-06-12 01:30:39,False
+549,69,249.36,Shopping,Flynn-White,2026-04-16 05:52:48,False
+550,90,362.12,Food,Brown and Sons,2026-05-09 06:36:17,False
+551,61,852.37,Bills,Thompson LLC,2026-05-08 02:51:08,True
+552,95,605.37,Food,"Bell, Orr and Reed",2026-05-22 08:28:01,True
+553,46,16.45,Entertainment,Morgan PLC,2026-04-04 23:36:32,True
+554,23,313.96,Entertainment,Lane-Atkins,2026-05-09 14:51:03,False
+555,52,47.49,Shopping,"Castro, Rodriguez and Clark",2026-01-28 16:54:35,False
+556,19,517.5,Bills,"Moore, Long and Hanson",2026-03-30 06:41:28,False
+557,72,828.14,Bills,Harris Group,2026-01-26 09:20:37,True
+558,21,147.59,Entertainment,Montgomery-Lee,2026-05-19 21:24:13,False
+559,43,899.67,Bills,"Jackson, Bowers and Raymond",2026-02-15 19:20:21,True
+560,33,426.22,Entertainment,Love Inc,2026-04-26 23:20:38,False
+561,8,482.43,Bills,Whitaker Group,2026-03-12 23:10:14,True
+562,63,461.55,Bills,Sampson-Flores,2026-04-20 14:55:03,True
+563,23,972.58,Bills,Shields Group,2026-04-09 13:00:13,False
+564,76,446.1,Bills,Hood LLC,2026-06-18 06:00:44,False
+565,67,89.51,Bills,Hendrix Inc,2026-03-27 08:15:40,True
+566,33,345.96,Shopping,"Smith, Mendez and Hoover",2026-01-30 08:57:36,True
+567,4,984.94,Food,Lewis Ltd,2026-03-04 23:47:07,False
+568,8,745.76,Bills,Perry-Daniels,2026-05-15 21:43:41,True
+569,32,630.05,Bills,James-Anderson,2026-03-30 15:46:11,False
+570,15,150.41,Bills,"Walker, Davis and Wright",2026-02-07 13:53:26,False
+571,92,486.42,Food,"Walker, Johnson and Watson",2026-03-16 08:48:55,True
+572,39,271.96,Food,Burch-Vazquez,2026-02-25 23:38:13,False
+573,74,971.62,Bills,King-Blankenship,2026-03-14 02:01:44,True
+574,56,962.39,Bills,Simon-Green,2026-04-11 00:12:15,True
+575,93,540.75,Bills,"Brown, Thomas and Jones",2026-02-04 12:12:04,True
+576,25,235.04,Entertainment,Wagner LLC,2026-06-01 23:31:55,True
+577,90,169.46,Food,Zuniga-Williams,2026-05-16 11:07:44,True
+578,100,314.85,Bills,Wyatt-Dixon,2026-02-17 07:19:34,True
+579,99,504.85,Food,Cabrera Ltd,2026-02-25 12:09:34,False
+580,29,984.35,Bills,"Baker, Munoz and Rios",2026-01-29 19:15:05,True
+581,4,318.01,Entertainment,Horton and Sons,2026-05-29 05:16:44,True
+582,87,706.22,Bills,Jones PLC,2026-04-02 03:09:47,False
+583,71,759.04,Food,Walsh Inc,2026-01-04 14:20:44,False
+584,31,130.79,Shopping,"Banks, Nguyen and Henderson",2026-06-04 03:50:52,True
+585,90,421.73,Bills,Allen and Sons,2026-04-02 18:06:40,True
+586,88,192.76,Shopping,"Grant, Chen and Taylor",2026-03-28 23:20:38,True
+587,1,930.45,Bills,Simpson-Richardson,2026-03-11 21:59:35,True
+588,25,364.49,Bills,Smith and Sons,2026-03-15 19:14:27,False
+589,42,980.8,Shopping,Perez PLC,2026-03-30 00:59:38,True
+590,80,553.69,Shopping,Vega-Martinez,2026-06-04 20:42:26,False
+591,82,447.37,Shopping,"Howard, Williams and Bell",2026-03-21 23:01:20,False
+592,40,368.24,Food,Rush-Miranda,2026-01-20 02:03:28,True
+593,39,731.82,Shopping,"Mason, Elliott and Frost",2026-05-06 08:50:04,False
+594,100,815.21,Shopping,"Dickson, Ellis and Barnett",2026-03-02 02:13:38,True
+595,25,291.26,Shopping,Walton-Francis,2026-05-16 19:48:40,False
+596,34,391.09,Shopping,Hopkins Inc,2026-01-27 04:20:21,True
+597,78,505.33,Entertainment,Jones Ltd,2026-05-22 04:00:19,True
+598,19,860.61,Shopping,"French, Snyder and Miller",2026-04-25 02:28:44,True
+599,35,56.84,Entertainment,"Wells, Wells and Wagner",2026-06-01 02:53:19,True
+600,45,171.55,Bills,Fisher Ltd,2026-04-10 04:25:45,True
+601,39,906.83,Food,"Fernandez, Mccarthy and Thomas",2026-01-14 12:39:41,True
+602,11,177.32,Entertainment,Wilkerson PLC,2026-02-04 22:49:59,True
+603,19,829.0,Bills,Pugh-Weber,2026-01-03 03:41:51,True
+604,82,824.36,Shopping,Baker-Ferguson,2026-02-22 05:21:19,True
+605,48,429.25,Bills,Lee-Marquez,2026-05-02 22:38:12,True
+606,56,614.37,Entertainment,Skinner-Armstrong,2026-03-19 21:16:26,False
+607,15,713.35,Food,"Bishop, Russell and Mcpherson",2026-03-24 03:04:25,True
+608,70,24.28,Food,Merritt-Brady,2026-05-29 12:24:32,False
+609,48,508.07,Food,Nichols-Miranda,2026-01-21 03:11:30,True
+610,12,995.63,Bills,Yang-Rodriguez,2026-02-21 07:27:20,False
+611,76,764.53,Food,"Mcdaniel, Miller and Reeves",2026-02-07 19:38:41,False
+612,100,562.29,Shopping,Pollard Group,2026-05-04 14:53:42,True
+613,10,980.01,Shopping,Acevedo-Briggs,2026-05-12 05:14:43,True
+614,29,343.48,Entertainment,Herrera-Oneal,2026-02-27 10:14:32,False
+615,93,294.91,Bills,Brown-Moore,2026-01-16 18:10:52,False
+616,46,858.38,Bills,"Stewart, Hicks and Banks",2026-02-07 22:28:16,False
+617,34,785.49,Entertainment,Burgess-Tucker,2026-05-08 00:08:58,True
+618,69,864.13,Entertainment,Smith-Vega,2026-02-17 13:03:29,False
+619,60,981.45,Shopping,Swanson PLC,2026-01-08 22:55:24,True
+620,16,901.47,Shopping,"Velazquez, Reyes and Carroll",2026-04-12 14:37:22,True
+621,15,698.67,Bills,Livingston Ltd,2026-02-16 19:25:59,True
+622,57,558.67,Food,"Brown, Hahn and Thomas",2026-04-02 10:06:45,True
+623,88,756.49,Entertainment,Smith LLC,2026-05-19 11:56:49,True
+624,33,918.3,Shopping,Morris-Bennett,2026-05-19 19:01:39,False
+625,62,578.84,Entertainment,Garcia Group,2026-04-09 15:02:56,True
+626,65,729.77,Entertainment,"Mata, Casey and Lam",2026-01-16 06:11:37,True
+627,21,334.69,Entertainment,Thompson-Malone,2026-01-16 23:50:09,True
+628,54,574.4,Bills,Mann-Roberts,2026-05-18 19:36:47,True
+629,40,102.85,Bills,"Gould, Smith and Scott",2026-01-01 20:46:08,False
+630,58,504.33,Shopping,"Rodriguez, Delgado and Cunningham",2026-01-21 22:25:36,True
+631,20,127.83,Shopping,"Gaines, Rowland and Parker",2026-01-06 21:43:48,True
+632,99,570.67,Food,Smith-Long,2026-02-20 22:21:51,True
+633,38,639.46,Entertainment,"Davis, Robles and James",2026-03-24 17:02:49,False
+634,97,198.79,Food,Little Group,2026-04-04 02:50:41,False
+635,83,879.38,Entertainment,"Hunt, Watson and Woods",2026-05-19 08:43:01,False
+636,57,194.05,Food,"Mills, Ford and Hamilton",2026-02-23 23:21:49,True
+637,62,604.53,Food,Adams LLC,2026-02-03 13:58:36,True
+638,39,3.84,Food,"Reid, Moody and Woodard",2026-01-04 20:20:47,True
+639,53,915.53,Bills,Rodriguez-Morris,2026-06-15 19:17:29,False
+640,24,223.06,Food,Snyder-Henry,2026-04-11 02:11:21,True
+641,100,781.0,Food,Horton Ltd,2026-03-05 18:44:24,False
+642,18,901.73,Shopping,Coffey Ltd,2026-02-26 11:40:21,False
+643,53,173.44,Bills,"Hunt, Ruiz and Miller",2026-05-31 11:00:08,False
+644,44,406.3,Food,Jenkins-Kennedy,2026-01-07 03:06:55,False
+645,69,475.03,Entertainment,Tyler-Harris,2026-05-30 22:52:53,False
+646,31,497.13,Food,Taylor-Wilson,2026-02-15 16:34:21,False
+647,89,174.43,Shopping,Kennedy and Sons,2026-04-28 00:49:46,False
+648,62,748.98,Food,Johnson-Bishop,2026-02-20 20:20:04,True
+649,31,385.49,Shopping,Valencia Inc,2026-03-20 05:02:39,True
+650,15,402.67,Shopping,Wilson Ltd,2026-03-26 03:47:43,False
+651,75,613.65,Shopping,"Gibson, Byrd and Hughes",2026-02-17 19:35:16,True
+652,63,715.03,Entertainment,"Turner, Singh and Figueroa",2026-03-27 01:49:29,True
+653,9,473.7,Entertainment,Cummings-Jenkins,2026-04-16 02:31:03,False
+654,2,602.29,Food,"Blake, Johnson and Robinson",2026-03-14 16:26:52,True
+655,29,732.58,Shopping,Sosa Ltd,2026-03-08 20:31:43,False
+656,17,655.65,Food,Roberts-Black,2026-03-31 10:44:13,True
+657,43,994.79,Shopping,"Williams, Kane and Hoffman",2026-05-02 23:20:24,True
+658,25,780.05,Entertainment,Thompson-Gonzalez,2026-02-02 17:36:36,False
+659,47,168.41,Bills,"Cantrell, Gordon and Hicks",2026-04-20 04:20:02,False
+660,73,46.14,Bills,Harmon Ltd,2026-04-04 19:08:25,True
+661,68,742.65,Food,"Nelson, Warren and Weaver",2026-02-24 11:42:38,False
+662,84,930.38,Bills,"Reynolds, Gilbert and Brown",2026-03-26 05:32:01,False
+663,38,171.91,Entertainment,"Campos, Johnson and Ross",2026-05-24 08:35:24,False
+664,74,777.12,Shopping,"Pearson, Farrell and Gonzalez",2026-02-17 03:57:36,False
+665,83,452.14,Food,"Johnson, Garcia and Wells",2026-04-06 13:58:10,False
+666,50,19.88,Entertainment,"Hill, Stevenson and Potts",2026-02-03 11:18:32,False
+667,18,856.46,Food,Ray Inc,2026-02-17 02:51:24,True
+668,34,951.92,Food,Brown-Ruiz,2026-05-16 22:10:55,False
+669,91,288.07,Bills,Garner PLC,2026-03-24 15:55:43,False
+670,48,466.58,Bills,Finley-Murphy,2026-06-17 15:54:45,False
+671,8,281.18,Bills,Weaver-Everett,2026-06-05 07:41:38,False
+672,44,132.93,Bills,"Daugherty, Sharp and Miranda",2026-04-19 19:30:22,True
+673,49,653.4,Bills,"Coleman, Lewis and Gibbs",2026-01-30 03:25:21,True
+674,25,800.18,Bills,"Kaiser, French and Orozco",2026-01-22 17:53:16,False
+675,68,166.69,Bills,"Williams, Joseph and Simmons",2026-02-05 18:40:31,False
+676,31,211.42,Shopping,Weber PLC,2026-01-24 11:27:12,False
+677,95,723.29,Bills,Blair Ltd,2026-02-17 13:56:17,False
+678,27,122.07,Bills,"Johnson, Smith and Gordon",2026-01-12 14:47:30,False
+679,86,78.21,Food,Ali-Hebert,2026-05-29 23:35:16,False
+680,35,31.49,Food,"Walters, Rogers and Andrade",2026-04-06 14:40:18,False
+681,34,653.4,Shopping,Stephens PLC,2026-03-09 14:22:07,False
+682,7,73.45,Food,"Shelton, Jackson and Velasquez",2026-05-29 00:42:53,False
+683,29,839.8,Food,Cohen LLC,2026-01-15 09:35:18,False
+684,50,404.03,Food,Taylor and Sons,2026-05-18 00:18:26,False
+685,83,290.41,Food,Phillips-Carter,2026-02-26 00:19:04,True
+686,31,553.42,Shopping,Hardin Inc,2026-04-16 08:39:58,True
+687,30,824.32,Bills,Carter Group,2026-04-23 00:56:10,False
+688,41,919.45,Food,Hanna and Sons,2026-04-03 03:58:40,False
+689,30,260.62,Food,Murphy-Jenkins,2026-01-16 08:04:09,False
+690,64,60.58,Entertainment,Morris Group,2026-03-29 16:56:47,True
+691,81,746.28,Bills,Miranda-Thompson,2026-03-14 03:58:03,False
+692,16,669.54,Food,"Wright, Singh and Villegas",2026-02-05 11:09:31,False
+693,36,100.98,Shopping,"David, Hernandez and Wilson",2026-02-01 15:08:51,True
+694,65,723.66,Bills,"Hernandez, Ramirez and Blanchard",2026-02-15 19:52:30,True
+695,31,274.89,Food,Mcdonald Inc,2026-04-15 20:16:14,False
+696,32,133.43,Shopping,Guzman Ltd,2026-02-20 01:22:14,False
+697,51,972.78,Bills,Garcia-Page,2026-01-13 16:38:35,False
+698,31,163.2,Entertainment,"Smith, Torres and Torres",2026-05-04 05:18:28,False
+699,84,285.11,Entertainment,"Harris, Mcgee and Phillips",2026-05-24 15:42:06,False
+700,35,809.53,Entertainment,Weaver-Richardson,2026-06-17 13:39:54,True
+701,59,483.45,Food,"Robertson, Wilson and Walker",2026-02-14 13:08:16,True
+702,42,343.52,Shopping,"Sanders, Russell and Jones",2026-04-07 20:23:22,False
+703,68,580.56,Entertainment,"Freeman, Young and Edwards",2026-03-11 17:02:24,False
+704,91,836.59,Entertainment,"Cook, Guzman and Pratt",2026-04-06 10:15:15,True
+705,96,416.31,Food,Crawford and Sons,2026-05-06 18:37:41,False
+706,18,214.99,Shopping,Jones Inc,2026-01-23 09:06:04,True
+707,73,225.28,Food,Hernandez Group,2026-05-02 00:15:57,False
+708,24,660.08,Food,"Gonzalez, Johnson and Beard",2026-01-13 02:46:13,False
+709,29,302.48,Shopping,"Scott, Edwards and Lee",2026-03-03 05:21:36,True
+710,88,851.31,Shopping,"Day, Williams and Romero",2026-02-24 01:37:25,True
+711,26,538.19,Food,Garcia-Jackson,2026-02-26 22:23:25,True
+712,22,48.81,Bills,Ferguson-Campbell,2026-05-03 03:21:53,False
+713,54,451.65,Food,Barber PLC,2026-06-06 22:03:44,True
+714,34,557.67,Entertainment,"Franklin, Parker and Cole",2026-04-04 21:28:14,True
+715,13,314.89,Entertainment,Wagner-Peterson,2026-05-17 21:12:29,True
+716,20,692.75,Entertainment,Dennis-Scott,2026-06-09 03:54:46,False
+717,87,270.52,Bills,"Nguyen, Odom and Hurley",2026-05-29 11:18:39,False
+718,70,4.95,Food,"White, Bond and Parker",2026-06-12 10:45:22,False
+719,31,276.11,Food,Fernandez-Thompson,2026-05-08 06:37:23,True
+720,10,506.34,Shopping,"King, Bradshaw and Owens",2026-01-09 18:34:18,False
+721,33,394.35,Entertainment,"Fox, Noble and Cox",2026-05-26 08:31:33,True
+722,63,209.19,Bills,Nixon Ltd,2026-01-20 21:25:03,True
+723,29,970.6,Food,"Foley, Powell and Mitchell",2026-05-03 13:49:21,True
+724,91,57.07,Entertainment,Acosta LLC,2026-05-03 14:21:19,False
+725,3,874.7,Food,Harris-Moody,2026-04-23 05:58:32,False
+726,59,152.01,Entertainment,Owens-White,2026-04-04 13:28:02,False
+727,43,679.16,Bills,Lewis-Nelson,2026-01-19 20:41:11,True
+728,91,333.65,Entertainment,"Allen, Love and Carson",2026-03-10 22:57:22,True
+729,42,671.78,Food,Schneider-Morgan,2026-03-06 19:08:12,True
+730,26,153.12,Shopping,"Wilson, Coffey and Johnson",2026-05-19 06:45:48,True
+731,68,184.18,Bills,"Miller, Richardson and Maxwell",2026-05-24 13:57:44,True
+732,2,342.96,Food,Martinez Inc,2026-04-18 12:13:02,False
+733,4,784.46,Bills,"Bridges, Stone and Dixon",2026-03-14 22:38:08,False
+734,61,393.75,Shopping,"Cook, Smith and Lee",2026-06-16 22:46:21,False
+735,10,407.68,Entertainment,Jackson-Mcdonald,2026-03-02 21:24:21,False
+736,11,312.8,Bills,Carpenter LLC,2026-03-11 00:32:38,True
+737,21,109.44,Bills,Long LLC,2026-04-04 16:12:24,False
+738,77,351.67,Food,"Swanson, Guerra and Nelson",2026-03-18 01:10:21,False
+739,53,237.45,Entertainment,"Mitchell, Hendricks and Clark",2026-01-12 20:04:46,True
+740,97,487.2,Shopping,Kane and Sons,2026-05-14 13:02:38,True
+741,98,957.97,Entertainment,Boyle-Hines,2026-01-22 09:35:02,True
+742,49,81.25,Entertainment,Hurst LLC,2026-05-14 00:45:11,False
+743,10,186.79,Food,Wright-Ingram,2026-04-26 04:24:18,False
+744,50,361.0,Food,Reynolds LLC,2026-04-17 10:12:26,True
+745,39,781.29,Food,Lopez LLC,2026-01-08 03:38:55,False
+746,92,143.58,Shopping,Mckenzie-Curtis,2026-04-13 00:42:10,False
+747,31,321.8,Shopping,Valentine and Sons,2026-05-20 02:19:32,False
+748,67,67.3,Shopping,"Gardner, Murray and Martin",2026-06-08 16:28:34,False
+749,23,731.15,Food,Johnson Ltd,2026-05-12 08:07:03,True
+750,93,651.8,Shopping,"Anderson, Schneider and Peterson",2026-03-12 10:59:24,False
+751,42,895.34,Bills,Harvey-Sloan,2026-05-23 01:28:50,False
+752,30,480.61,Bills,Dawson-Lewis,2026-01-21 12:17:17,True
+753,47,970.93,Bills,Butler-Day,2026-02-17 14:17:50,True
+754,26,900.09,Bills,"Kane, Farley and King",2026-04-19 04:28:09,True
+755,91,431.15,Entertainment,"Dawson, Blackwell and Dunn",2026-04-16 18:19:33,True
+756,73,536.83,Bills,Turner Group,2026-02-28 10:19:08,True
+757,65,66.85,Shopping,"Castro, Wilson and Nelson",2026-02-20 18:41:58,False
+758,48,834.72,Food,"Newman, David and Harris",2026-01-23 05:02:07,False
+759,87,390.47,Entertainment,"Johnston, Smith and Miller",2026-01-17 08:16:48,False
+760,81,581.0,Bills,Peters LLC,2026-06-06 13:38:18,False
+761,84,83.46,Shopping,Hill-Fleming,2026-01-19 15:47:56,True
+762,51,843.06,Bills,Douglas Ltd,2026-04-13 18:03:16,True
+763,43,530.56,Bills,Wright Ltd,2026-05-01 01:06:30,True
+764,35,617.22,Entertainment,Byrd and Sons,2026-03-19 04:20:55,True
+765,63,92.54,Bills,Williams-Perez,2026-02-12 18:04:56,False
+766,10,470.81,Food,"West, Bush and Martinez",2026-01-05 17:47:05,True
+767,88,837.23,Entertainment,"Clark, Valdez and Blackwell",2026-06-13 19:45:47,False
+768,25,564.82,Shopping,Bell LLC,2026-04-20 01:10:14,False
+769,5,534.68,Shopping,Pineda-Johnson,2026-04-06 15:34:06,False
+770,81,594.21,Food,Bartlett-Fuller,2026-01-22 23:34:47,False
+771,33,265.64,Entertainment,Barker Inc,2026-05-19 23:47:09,True
+772,2,70.91,Shopping,Carter and Sons,2026-03-15 17:24:29,True
+773,23,276.52,Bills,Smith-Cohen,2026-06-06 23:55:50,True
+774,91,715.16,Food,"Johnston, Deleon and Reynolds",2026-04-04 14:26:06,True
+775,46,188.72,Food,"Duarte, Simmons and Case",2026-03-16 11:30:58,True
+776,31,478.26,Bills,Lozano Group,2026-01-18 09:03:25,False
+777,47,492.05,Bills,"Valenzuela, Carlson and Gutierrez",2026-04-01 06:40:43,True
+778,67,463.33,Entertainment,Strong and Sons,2026-04-14 02:02:52,True
+779,94,37.15,Shopping,Pearson-Donovan,2026-05-05 05:45:52,True
+780,99,915.81,Food,Navarro-Reed,2026-06-06 12:46:19,True
+781,18,739.49,Entertainment,"Gregory, Terry and Andrade",2026-04-05 15:27:14,False
+782,67,76.13,Entertainment,Woodward LLC,2026-03-02 16:42:14,False
+783,27,751.44,Bills,Newman Inc,2026-04-29 14:44:39,True
+784,88,88.03,Food,Scott-Mitchell,2026-05-19 06:14:34,True
+785,73,333.57,Food,Martinez Inc,2026-02-26 18:08:41,True
+786,25,453.86,Food,Reyes-Lopez,2026-02-20 14:02:30,False
+787,91,943.11,Entertainment,Young Ltd,2026-03-19 03:23:28,True
+788,59,122.63,Entertainment,Turner-Long,2026-03-12 16:59:57,False
+789,99,135.8,Entertainment,Perez PLC,2026-02-05 23:03:04,True
+790,51,830.97,Entertainment,"Lopez, Bond and Gonzales",2026-04-01 00:27:10,False
+791,98,844.32,Bills,Allen Inc,2026-06-17 20:58:45,True
+792,35,327.81,Food,"Wright, Pugh and Montoya",2026-06-16 02:29:59,False
+793,12,543.48,Food,Drake-Osborn,2026-05-17 13:44:48,False
+794,2,933.13,Entertainment,"Hunt, Wilson and Moore",2026-06-04 19:31:38,True
+795,91,932.75,Shopping,Chandler-Fleming,2026-01-24 17:56:04,False
+796,47,95.72,Shopping,Ware LLC,2026-06-07 02:34:23,True
+797,48,748.75,Shopping,Tran-Pierce,2026-01-18 05:56:55,False
+798,61,702.68,Shopping,Jones Inc,2026-06-15 23:51:27,False
+799,35,335.34,Bills,Valencia-Santana,2026-06-18 02:29:41,True
+800,90,548.03,Shopping,Mckinney Ltd,2026-04-14 22:37:27,False
+801,5,501.02,Entertainment,"Villarreal, Sharp and Moore",2026-05-07 03:57:54,False
+802,86,971.19,Food,"Taylor, Ryan and Gallagher",2026-06-14 05:11:23,False
+803,2,250.69,Food,"Gamble, Moody and Lang",2026-02-09 23:23:50,True
+804,36,747.18,Shopping,Long and Sons,2026-05-23 10:21:12,False
+805,26,47.09,Bills,Owens Inc,2026-03-29 17:07:08,True
+806,11,204.87,Bills,Humphrey-King,2026-04-13 01:57:21,False
+807,76,567.22,Shopping,"Meyers, Wolf and Evans",2026-01-10 07:54:44,False
+808,98,249.49,Food,"Rubio, Sawyer and Coleman",2026-04-25 14:10:24,True
+809,28,611.49,Entertainment,Sanchez Group,2026-06-13 16:15:13,True
+810,96,556.06,Food,Grant-Watson,2026-03-21 17:57:00,False
+811,87,702.23,Shopping,Smith-Harvey,2026-04-14 17:52:40,False
+812,67,690.21,Entertainment,Wilson-Porter,2026-01-21 13:21:23,False
+813,86,119.48,Bills,Jarvis Inc,2026-02-21 22:16:42,False
+814,55,510.01,Entertainment,Collins LLC,2026-03-07 08:01:12,True
+815,22,898.37,Bills,Jennings Group,2026-06-02 10:27:05,False
+816,2,49.16,Entertainment,"Miller, Cole and Johnston",2026-01-24 04:27:16,False
+817,70,69.39,Food,Miller PLC,2026-03-21 21:48:51,False
+818,69,553.67,Shopping,Campbell and Sons,2026-03-10 17:41:14,True
+819,26,781.14,Entertainment,Knight PLC,2026-05-03 09:07:39,False
+820,30,412.53,Shopping,Stewart-Green,2026-06-19 02:53:06,True
+821,41,2.92,Bills,Harris Ltd,2026-01-29 08:49:33,True
+822,44,674.27,Shopping,Holmes-Schwartz,2026-01-16 21:29:45,False
+823,26,869.74,Shopping,Smith-Hickman,2026-02-19 19:39:59,True
+824,52,713.36,Food,Allen-Luna,2026-01-24 06:05:48,True
+825,89,789.39,Bills,"Henry, Nash and Taylor",2026-05-20 05:10:30,True
+826,42,648.19,Food,Powell-Warren,2026-01-29 08:31:10,True
+827,28,136.03,Bills,Lopez LLC,2026-02-03 11:40:07,True
+828,55,779.6,Food,Peterson Inc,2026-01-11 16:17:56,False
+829,25,212.33,Food,Glover-Brown,2026-04-27 18:19:11,False
+830,68,903.76,Entertainment,"Stanley, Flynn and Burgess",2026-01-31 23:04:29,False
+831,72,552.45,Entertainment,Russell-Lewis,2026-06-03 23:21:25,False
+832,5,557.56,Entertainment,Smith Group,2026-05-02 12:00:36,True
+833,79,200.36,Shopping,"Hawkins, Gaines and Villa",2026-03-30 13:33:21,True
+834,82,848.97,Entertainment,Petersen-Stark,2026-05-24 11:40:46,True
+835,51,205.0,Shopping,"Farley, Chandler and Cross",2026-04-28 18:26:34,True
+836,26,468.42,Entertainment,Gentry-Hawkins,2026-03-02 14:01:41,True
+837,33,984.52,Bills,"White, Elliott and Kemp",2026-04-16 03:39:04,False
+838,57,79.74,Bills,Bell-Sellers,2026-01-23 06:26:02,True
+839,78,787.83,Food,Nelson-Douglas,2026-04-27 06:09:23,False
+840,26,752.16,Food,Miller Inc,2026-01-11 06:01:59,False
+841,1,93.71,Food,Gutierrez-Arnold,2026-04-24 07:15:36,True
+842,83,193.97,Entertainment,"Lopez, Lopez and Hood",2026-01-25 05:47:01,True
+843,99,566.36,Shopping,Li LLC,2026-03-21 14:07:28,True
+844,66,669.65,Bills,Martinez-Riley,2026-01-06 14:45:53,False
+845,47,247.42,Shopping,Anderson-King,2026-03-13 18:49:33,True
+846,43,925.8,Entertainment,Ross-Nguyen,2026-04-11 17:14:31,True
+847,7,875.77,Shopping,"Thornton, Howe and Wright",2026-01-29 20:27:06,False
+848,74,495.66,Shopping,Singh Inc,2026-02-25 16:56:27,False
+849,35,104.86,Entertainment,"Ramos, Fitzpatrick and James",2026-03-22 19:17:31,False
+850,15,791.75,Bills,Garza Inc,2026-05-08 17:23:37,True
+851,72,54.19,Bills,Baker Group,2026-05-29 21:35:56,True
+852,89,557.05,Entertainment,"Bennett, Sims and Cortez",2026-03-07 00:24:14,False
+853,66,794.43,Entertainment,"Mays, Mcmillan and Jordan",2026-04-20 09:29:51,False
+854,58,423.95,Bills,Davenport Ltd,2026-01-02 04:45:25,True
+855,55,382.17,Food,Davis-Thomas,2026-02-13 13:35:49,True
+856,54,62.91,Entertainment,Maxwell Ltd,2026-04-17 21:52:23,False
+857,17,948.32,Bills,Alvarez-Morris,2026-05-30 16:43:15,False
+858,63,554.38,Shopping,Horton-Sutton,2026-04-08 07:53:44,True
+859,41,39.28,Shopping,Long Group,2026-01-29 05:22:49,False
+860,70,67.33,Shopping,Villa Ltd,2026-04-10 11:15:44,True
+861,35,774.41,Entertainment,"Wilson, Paul and Ramirez",2026-01-04 01:20:30,True
+862,15,255.15,Food,Owen and Sons,2026-01-08 14:50:21,True
+863,75,976.89,Food,Holt-Morrow,2026-05-19 11:15:31,True
+864,38,799.95,Entertainment,Russell PLC,2026-02-15 05:15:51,False
+865,37,182.51,Entertainment,Joseph-Smith,2026-05-13 21:59:04,True
+866,39,179.35,Shopping,Barrett Group,2026-06-02 15:51:43,True
+867,89,960.22,Bills,"Johnson, Mcguire and Nash",2026-06-14 11:48:42,True
+868,78,185.2,Shopping,"Murray, Franklin and Chavez",2026-02-12 01:55:09,True
+869,31,462.39,Entertainment,Ramirez Inc,2026-03-26 05:45:48,True
+870,17,172.62,Shopping,"Webb, Wise and Hodges",2026-05-28 06:27:38,True
+871,95,139.43,Bills,Anderson-Williams,2026-02-03 10:28:01,True
+872,15,338.82,Bills,Walter-Espinoza,2026-06-02 10:51:56,True
+873,30,813.24,Entertainment,"Saunders, Dennis and Clark",2026-05-02 12:22:34,True
+874,40,609.21,Shopping,Nguyen-Silva,2026-01-30 05:18:15,True
+875,74,198.96,Bills,"Wilson, Kelley and Hopkins",2026-03-30 00:16:06,True
+876,65,958.18,Food,Thomas Inc,2026-03-10 09:04:45,False
+877,84,303.45,Shopping,"Harris, Bowen and Hancock",2026-03-11 22:26:22,False
+878,48,802.94,Food,Williams PLC,2026-03-29 14:44:43,False
+879,91,323.41,Food,"Sherman, Webb and Edwards",2026-03-29 17:40:04,False
+880,81,482.55,Shopping,Ferguson-Wright,2026-01-23 13:19:42,False
+881,19,115.97,Bills,Mccoy-Phillips,2026-03-11 19:05:50,False
+882,14,496.58,Food,Nichols-Case,2026-01-01 03:31:14,False
+883,76,280.74,Food,Fernandez-Jordan,2026-02-04 17:48:55,False
+884,10,646.0,Shopping,Mueller-Allen,2026-06-11 07:37:23,True
+885,79,185.49,Food,Lewis PLC,2026-02-12 03:01:38,False
+886,17,914.97,Bills,Torres PLC,2026-02-26 17:00:39,True
+887,82,833.18,Shopping,Mccarthy LLC,2026-04-30 14:53:42,True
+888,12,706.78,Bills,Vincent Inc,2026-05-19 07:01:47,True
+889,28,2.11,Shopping,Sosa PLC,2026-01-01 12:06:34,True
+890,75,448.13,Bills,"Taylor, Dorsey and Williams",2026-06-02 00:12:56,False
+891,92,906.61,Bills,Smith and Sons,2026-03-02 01:41:18,True
+892,23,636.06,Bills,Murphy Group,2026-03-16 04:54:26,True
+893,45,524.62,Bills,Lewis Inc,2026-05-26 05:44:20,False
+894,30,577.23,Bills,Thomas-Parker,2026-03-31 00:45:53,True
+895,42,946.03,Entertainment,Smith and Sons,2026-03-05 05:45:36,True
+896,5,515.88,Entertainment,Mitchell-Olson,2026-01-12 03:57:15,False
+897,85,175.45,Food,"Parker, Ramsey and Johnson",2026-01-21 14:50:15,False
+898,99,567.99,Entertainment,"Leblanc, Jones and Smith",2026-01-16 13:25:04,True
+899,89,269.62,Shopping,Anderson-Sanchez,2026-02-25 08:52:49,False
+900,50,647.18,Food,Adams-Tate,2026-01-28 12:02:08,True
+901,57,759.42,Entertainment,"Bryant, Brown and Christensen",2026-03-26 09:37:42,False
+902,45,469.06,Food,"Gray, Schmidt and Taylor",2026-03-24 20:58:54,True
+903,28,184.78,Entertainment,Colon PLC,2026-02-07 14:47:59,False
+904,24,218.48,Food,Velasquez and Sons,2026-06-11 10:06:39,False
+905,8,432.87,Bills,Tyler Ltd,2026-01-06 16:58:06,False
+906,71,553.77,Food,Olson-Andrews,2026-02-03 05:43:27,False
+907,97,807.44,Food,Davidson and Sons,2026-05-01 02:11:18,False
+908,10,539.05,Shopping,Morris Group,2026-04-06 08:33:31,True
+909,35,308.58,Shopping,"Moore, Cobb and Mcdowell",2026-04-12 17:03:59,False
+910,19,84.24,Bills,Garrett and Sons,2026-06-14 19:37:33,True
+911,20,834.59,Shopping,Johnson-Cannon,2026-01-23 03:01:41,True
+912,8,763.34,Entertainment,Frost and Sons,2026-06-16 08:53:37,False
+913,16,711.49,Entertainment,Parker-Fisher,2026-05-03 08:52:33,False
+914,19,637.88,Entertainment,Scott LLC,2026-04-26 04:07:52,False
+915,62,238.52,Food,Best-Burns,2026-01-14 15:26:35,True
+916,30,502.23,Bills,"Combs, Williams and Daniels",2026-05-26 00:38:59,True
+917,6,791.62,Bills,Reyes-Wright,2026-02-03 18:38:51,True
+918,92,714.45,Shopping,Hall and Sons,2026-05-04 22:29:11,True
+919,87,576.45,Food,"Lewis, Brooks and Grant",2026-04-09 04:02:59,True
+920,85,712.81,Shopping,Moore-Contreras,2026-02-27 12:38:26,True
+921,40,747.66,Food,"James, Moore and Lambert",2026-03-22 20:14:33,False
+922,29,173.48,Shopping,"Cook, Hall and Welch",2026-03-27 04:13:58,True
+923,28,721.33,Shopping,Garrett-Collins,2026-05-07 00:13:33,False
+924,64,452.64,Entertainment,"Gomez, Smith and Washington",2026-05-08 14:18:55,False
+925,94,504.79,Bills,Henderson-Brown,2026-03-09 17:41:59,False
+926,50,800.91,Shopping,Burton-Olson,2026-01-22 21:24:33,True
+927,91,101.31,Food,Shannon-Hernandez,2026-06-11 10:06:34,True
+928,98,654.16,Bills,"Bailey, Wright and Anderson",2026-04-25 03:23:36,True
+929,84,256.75,Entertainment,Daniels-Farrell,2026-01-08 21:24:08,False
+930,86,336.3,Bills,White LLC,2026-05-14 16:03:05,True
+931,14,203.52,Bills,"Hill, Ramirez and Rodriguez",2026-02-20 05:21:20,True
+932,12,408.37,Shopping,Gray PLC,2026-01-02 14:57:22,True
+933,17,325.91,Food,Floyd-Harmon,2026-05-21 21:53:37,True
+934,43,985.61,Shopping,Lopez-Smith,2026-04-18 03:51:23,True
+935,67,743.33,Food,Bird Group,2026-06-09 03:22:13,True
+936,19,376.16,Bills,Lynch-Dixon,2026-02-05 03:09:46,False
+937,27,200.04,Food,"Jones, Camacho and Long",2026-06-05 18:13:10,False
+938,76,502.77,Shopping,Smith-Fisher,2026-01-30 18:46:19,True
+939,38,67.0,Entertainment,Chavez Inc,2026-05-19 22:03:35,False
+940,7,391.75,Shopping,"Dean, Deleon and Rose",2026-04-12 05:50:26,False
+941,25,683.41,Shopping,Frey Group,2026-04-22 02:07:26,True
+942,5,755.71,Entertainment,Rodriguez and Sons,2026-03-17 20:55:21,True
+943,41,495.08,Shopping,Mack PLC,2026-03-14 15:51:05,True
+944,91,254.25,Shopping,Franklin and Sons,2026-06-11 02:31:13,False
+945,93,559.68,Food,Snyder Ltd,2026-05-20 22:52:26,True
+946,36,869.8,Food,Burton and Sons,2026-01-20 06:14:22,True
+947,41,372.87,Entertainment,Rodriguez PLC,2026-02-15 11:32:52,True
+948,97,848.28,Entertainment,"Jenkins, Berry and Brown",2026-05-21 14:31:10,True
+949,17,57.37,Food,"Bailey, Thomas and Pearson",2026-01-04 18:49:30,True
+950,17,479.55,Shopping,Marshall-Lee,2026-04-21 02:33:40,True
+951,65,430.48,Entertainment,Miller Group,2026-01-25 18:44:47,False
+952,7,596.02,Bills,Delacruz and Sons,2026-05-20 09:26:16,True
+953,97,482.08,Bills,Mcdonald PLC,2026-04-27 21:05:56,False
+954,44,122.59,Shopping,Hill and Sons,2026-03-29 10:10:22,False
+955,85,877.28,Food,"Francis, Jenkins and Gregory",2026-01-12 11:27:26,False
+956,41,466.72,Shopping,Bell PLC,2026-01-01 15:19:55,False
+957,6,345.46,Entertainment,"Roberts, Flores and Wright",2026-04-30 03:00:14,True
+958,56,950.2,Shopping,"Brown, Fisher and Hopkins",2026-03-28 19:02:00,False
+959,39,938.73,Bills,Smith Inc,2026-01-19 18:04:01,False
+960,6,889.15,Entertainment,"Herrera, Anderson and Summers",2026-01-15 09:52:45,False
+961,80,838.31,Bills,Burke LLC,2026-05-21 12:33:13,False
+962,83,616.25,Entertainment,Bowen LLC,2026-02-24 13:32:35,True
+963,59,275.38,Shopping,Hunt-Meyers,2026-03-15 17:33:38,True
+964,67,1.58,Shopping,"Palmer, Nguyen and Green",2026-06-12 22:45:35,False
+965,63,578.99,Shopping,Walker Inc,2026-01-02 06:36:43,False
+966,18,355.09,Shopping,Duffy Inc,2026-01-27 22:22:29,True
+967,16,653.97,Bills,Arroyo-Andrews,2026-01-27 06:02:14,True
+968,3,45.97,Bills,Fitzgerald PLC,2026-01-07 09:59:33,True
+969,83,902.1,Entertainment,Wilson Ltd,2026-06-10 04:26:54,True
+970,51,5.75,Food,"Dominguez, Guzman and Perez",2026-02-05 05:19:07,True
+971,72,240.83,Entertainment,Moreno and Sons,2026-05-02 16:47:34,True
+972,64,71.94,Entertainment,Osborne-Petty,2026-04-19 06:23:54,True
+973,80,970.47,Shopping,Wise-Smith,2026-05-13 08:21:12,False
+974,66,376.41,Bills,Nichols-Garcia,2026-06-16 18:37:17,False
+975,23,257.9,Bills,"Simmons, Dixon and Guzman",2026-05-19 23:38:09,True
+976,83,484.23,Bills,Hopkins-Peterson,2026-06-04 10:59:32,False
+977,37,82.94,Shopping,Campos LLC,2026-04-07 20:16:27,True
+978,90,858.45,Food,"Price, Giles and Acevedo",2026-02-10 13:05:10,True
+979,54,895.66,Food,"Terrell, Nicholson and Hancock",2026-03-05 22:32:04,False
+980,60,748.16,Entertainment,Romero-Wallace,2026-02-18 03:06:57,False
+981,24,264.32,Bills,Poole Inc,2026-05-28 10:24:13,True
+982,65,902.25,Bills,Moses Ltd,2026-04-17 06:40:15,True
+983,35,485.86,Entertainment,Duran-Robinson,2026-02-03 13:18:01,True
+984,54,545.86,Food,"Burgess, Russell and Mullins",2026-05-21 13:54:46,False
+985,56,653.03,Entertainment,"Holt, Robinson and Reed",2026-05-15 01:56:40,False
+986,50,642.03,Food,Flores-Washington,2026-04-20 16:25:06,True
+987,89,882.64,Bills,Henson Ltd,2026-01-10 01:03:52,False
+988,21,264.27,Bills,"Smith, Estrada and Smith",2026-05-29 16:52:35,False
+989,91,647.65,Food,Ross PLC,2026-02-16 14:01:13,True
+990,64,747.89,Bills,Li Inc,2026-02-27 21:41:33,True
+991,24,376.52,Bills,Allen-Hayes,2026-01-30 04:24:47,True
+992,62,265.15,Shopping,"Neal, Robinson and Ross",2026-01-23 22:18:38,False
+993,55,724.15,Food,Page LLC,2026-01-02 01:57:04,True
+994,87,260.05,Shopping,Evans PLC,2026-01-22 16:12:13,True
+995,40,405.08,Bills,Hall LLC,2026-02-08 16:00:57,False
+996,67,736.49,Shopping,Harper-Garcia,2026-05-29 17:14:24,False
+997,9,770.36,Bills,Garcia Inc,2026-03-23 08:57:55,True
+998,29,246.93,Entertainment,Phillips-Meyer,2026-04-08 04:26:51,False
+999,29,814.41,Entertainment,Campbell Group,2026-02-23 16:09:05,True
+1000,52,557.46,Shopping,"Schneider, Moore and Oliver",2026-01-04 13:11:05,True
